@@ -1,0 +1,402 @@
+# Introduction to Computational Thinking and Programming in Python
+
+This course is a general introduction to programming, data processing and analysis, and computational thinking using the [Python programming language](https://www.python.org/).
+
+Programming is perhaps the most important tool used in computer science and computing to understand and solve problems relevant to the computer scientist's domain.
+
+Skill with programming is applicable to a wide range of fields, not just computer science. It is my hope that people who work through the materials in this repository will acquire deep and thorough knowledge about how to write programs that help solve the problems relevant to their careers and lives.
+
+This course uses Python v3.6.10, though anything from v3.6 and up should work.
+
+## Course purpose and goals
+
+The purpose of this course is to teach computing and computational thinking from a programmer's point of view, introducing other key concepts from computer science along the way.
+
+This course uses Python to teach programming and computer science, but it is not a course about Python. You will learn how to use many Python language features, but learning Python is secondary to learning how to program.
+
+Furthermore, the goal is not just to "learn how to program," but to learn how to think like a computer scientist in solving problems. Learning how to write actually useful programs is still important, but secondary to the main purpose. If, at the end of this course, you have a whole new understanding of how to think through and solve problems, we will have succeeded in our goal.
+
+## Source materials
+
+It uses materials from the following courses, which are freely available online:
+
+- [MIT 6.0001 &ndash; Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [MIT 6.00SC &ndash; Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- [UC Berkeley CS 61A &ndash; Structure and Interpretation of Computer Programs (Spring 2018 version)](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
+- [MIT 6.0002 &ndash; Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
+I am only using the Python material from CS 61A, not the materials on Scheme and SQL.
+
+### Textbooks
+
+The first textbook I'll be following is [*Introduction to Computation and Programming using Python With Application to Understanding Data, 2nd ed.*](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition) by John V. Guttag, which is the textbook for the MIT courses [(Amazon)](https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236). It covers the material from the OpenCourseWare lectures in greater depth, though you can still get a lot from the video lectures if you can't afford it (or don't want to buy it).
+
+I'll also be using the Berkeley course textbook, which is available freely online:
+
+- [*Composing Programs*](http://composingprograms.com/), by John DeNero (CS 61A)
+
+You *definitely* want to make sure to do the readings from it, as it covers material and examples not found in the CS 61A lectures.
+
+### Practice problems
+
+There is an extensive collection of practice problems on the CS 61A website, plus assignments, projects, labs, and more. The problem sets for 6.0001 are also available on the OpenCourseWare site.
+
+I'll be using additional practice problems from [HackerRank](https://hackerrank.com/) and [Leetcode](https://leetcode.com/), especially from [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) and [Chingu Challenge #3 - Python Interview Prep](https://www.hackerrank.com/chingu-challenge-3/). They also have a [full list of Python practice problems](https://www.hackerrank.com/domains/python).
+
+Note that for 30 Days of Code the tutorial sections are in Java, not Python. They should still be helpful for understanding the logic behind the problems themselves.
+
+You can also find a ton of additional practice problems at
+
+- [Edabit](https://edabit.com/challenges/python3)
+- [Exercism](https://exercism.io/)
+- [CodeWars](https://www.codewars.com/?language=python)
+- [Coding Bat](http://codingbat.com/python)
+- [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?page=1)
+- [Project Euler](https://projecteuler.net/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [Python Challenge](http://www.pythonchallenge.com/)
+- and dozens of other sites.
+
+If you run out of things to practice, it's definitely because you haven't looked hard enough; all the practice problems you could ever want are just a DuckDuckGo search away.
+
+### Additional resources
+
+You should freely make use of the extensive collection of resources on the CS 61A website, as well as the slides and code on MIT OpenCourseWare for 6.0001. I'm using the CS 61A [Spring 2020 Resources page](https://cs61a.org/resources.html), both because the 2018 one has several dead links and there are more and better resources available on the 2020 page.
+
+[*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/) by Allen Downey, which is available freely online, is an excellent introduction to Python and some computer science concepts related to programming, and can fill in for the Guttag book in some places if you don't want to buy it. It's a great resource either way and I highly recommend it&mdash;*especially* if you don't have any experience with programming.
+
+In fact, if you've never programmed before it might be a good idea to work through *Think Python* from cover to cover before you begin with the course material. It has a *much* gentler learning curve, and having the exposure to programming will help keep you from feeling like you're drowning once you get into the meat of the course.
+
+[*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://pragprog.com/book/gwpy3/practical-programming-third-edition), while not available for free, is an excellent introductory work that includes helpful sections on program and module design. It is inspired by the classic [*How to Design Programs*](https://htdp.org) (which is freely available online and used in PROG 2: Design, structure, and interpretation of computer programs).
+
+[*Learn Python 3 the Hard Way*](https://learnpythonthehardway.org/) uses a novel teaching method that helps beginners learn the tools they need to begin learning more complex programming topics. Its sequel, [*Learn More Python the Hard Way*](https://learncodethehardway.org/more-python/), focuses on teaching a process for creatively designing and building quality software that helps the reader learn to think like an engineer, and not just someone who can write some code. Both are paid resources, but easily worth the cost.
+
+[DataCamp](https://www.datacamp.com/) has an excellent [free series to help you learn Python](https://www.learnpython.org/) with a bent towards data science applications. It starts with the very basics and eventually gets into some more advanced topics.
+
+## Best practices for assessment and learning
+
+There is no formal assessment for this course.
+
+I recommend working through all practice problems and homework from all 3 courses (except the Scheme and SQL sections of 61A), including any labs, recitations, and practice exams.
+
+Be sure to type *all the code* demonstrated in readings and lectures into an IDE so you can get a handle on how it works and get your brain used to writing code.
+
+Remember, the *most important thing* you can do to ensure better learning and retention of the material is work *systematically* through as many practice problems as possible.
+
+It's **far** more important to do problems than to read more in the books or watch more lecture videos.
+
+Having more information is great, but you should aim for about an 80/20 mix of deliberate practice time to time spent reading/watching.
+
+Follow the advice in the "Studying tips" section of ["Welcome to computer science"](https://sequoia-tree.github.io/welcome-to-computer-science.html) and use the techniques listed in ["How to learn computer science"](https://docs.google.com/presentation/d/17etd_yHLNeUOewTTSSi8MOIKrP0cgL9O_1FYmqQSRME/edit), especially slides 18, 22, and 23. They show how to work through practice problems deliberately and systematically in such a way as to maximize their impact on your learning.
+
+It will also be helpful to give yourself as many opportunities as you can to practice recall of the material with as short a feedback loop as possible from when you first encounter it to when you start quizzing yourself over it.
+
+Give yourself as many quizzes as possible and summarize the course content in your own words, from memory.
+
+It will be frustrating, but it's an amazing tool for learning.
+
+Keep a "Feynman journal" where you write out summaries of all the material studied from memory.
+
+This repo is serving as my own Feynman journal to document my computer science learning path, but I also have a handwritten notebook in which to take notes, practice recall, and summarize in shorter bits.
+
+Remember that simply consuming more material might make it *feel* like you're learning (in a way that makes you feel good about yourself!) but the best way to **actually** learn is to ride that struggle bus through deliberate practice and recall. In fact, the times you feel like you're learning the least because you're struggling so hard will almost certainly be the times you are, in fact, making the most progress.
+
+*It turns out we humans are **really bad** at recognizing when we're learning and when a teacher is using tactics that are effective for helping us learn. The times of our greatest frustration are almost certainly the times when the most learning is happening, and we quite frankly suck at being aware of that.*
+
+Focus on the areas where you need improvement! You gain nothing by continuing to do the things you're already good at. You want to *actually learn*, not just feel like you're learning.
+
+I also recommend downloading a copy of each exam from the relevant course sections and setting aside a period of time to work on as much of it as you can. Try to make it as much like an actual exam as possible to give yourself a good test of how much you've learned. Just because there isn't someone else grading it doesn't mean you can't still challenge yourself!
+
+If doing more than one midterm/final/etc. for the section of the course you're working on seems overwhelming, maybe just take some problems from each course and mash them up into your own exam.
+
+Get creative and have fun with it!
+
+## Course content
+
+### Preliminary notes
+
+- It isn't necessary to watch the videos and sections of videos that are only relevant to students taking the actual courses on campus
+- CS 61A video numbers refer to their location in the playlist for that lecture as of Spring 2018
+
+- Resources for getting started with computer science (not required, but **highly** recommended)
+    - [Welcome to computer science](https://sequoia-tree.github.io/welcome-to-computer-science.html)
+    - [How to learn computer science](https://docs.google.com/presentation/d/17etd_yHLNeUOewTTSSi8MOIKrP0cgL9O_1FYmqQSRME/edit)
+    - [Beginner's guide to computer science](http://www.jamesmaa.com/2013/08/26/a-beginners-guide-to-computer-science/)
+    - [Productivity hacking guide](http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/)
+    - [Words of wisdom](https://owenjow.xyz/cs61a/words-of-wisdom/)
+    - [Guide on getting unstuck](https://docs.google.com/document/d/1Yw6wK6PPL7x7wJB6Wo9qkWz8rgJwo-t0cXU5pFstaVA/edit)
+    - [Composition guide](https://cs61a.org/articles/composition.html)
+    - [Debugging guide](https://cs61a.org/articles/debugging.html)
+    - [Guide on how to study](https://cs61a.org/articles/studying.html)
+    - [Another guide on how to study](https://docs.google.com/document/d/10qXNoBI5g_n4NlqKkcePXkZeV3kjwdhQpuP60oN3yAY/edit)
+    - [Holistic Learning: How to study better, understand more, and actually "get" what you want to learn](https://www.scotthyoung.com/blog/Programs/HolisticLearningEBook.pdf)
+
+### I. Starting out with computing: Python basics and simple algorithms
+
+1. Understanding computing and computer science
+    - Read: Guttag, ch. 1 - 2.1
+    - Read: DeNero, ch. 1.1 - 1.2
+    - Read: Jeannette M. Wing, ["Computational Thinking"](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
+    - Watch: 6.0001 [Lecture 1: What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
+    - Watch: [6.00 Lecture 1: Introduction to 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00)
+    - Watch: [CS 61A Lecture 1: Functions](https://www.youtube.com/watch?v=v5CP0zpYUcw&list=PL6BsET-8jgYUV8Jxv0D7BLxbg-xIkh0vk&vq=hd1080), videos 2, 5, and 6
+    - Do: Start HackerRank 30 Days of Code
+    - Do: Start HackerRank Python practice
+    - Do: Start HackerRank Python Chingu Challenge
+    - Do: CS 61A Lab 00
+    - Do: CS 61A Disc. 00
+2. Basic control flow
+    - Read: Guttag, ch. 2.2, 2.3.1, 2.4, and 3.2
+    - Watch: [6.0001 Lecture 2: Branching and iteration](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/)
+    - Watch: [6.00 Lecture 2: Core elements of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
+    - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
+    - Do: 6.00 Problem set 0
+    - Do: Continue doing practice problems on HackerRank and other sites throughout the whole course
+3. Simple algorithms
+    - Read: Guttag, ch. 3
+    - Watch: 6.0001 [Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection Search](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)
+    - Watch: 6.00 [Lecture 3: Problem solving](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-3-problem-solving/)
+    - Note: You will generally see the algorithm they call "bisection search" referred to as "binary search" on coding websites and in algorithm problems.
+    - Do: 6.0001 Pset 0
+4. Quiz
+
+### II. Functions: the building blocks for your programs
+
+5. Functions and scope
+    - Read: Guttag, ch. 4.1, 4.4
+    - Read: DeNero, ch. 1.3
+    - Watch: [CS 61A Lecture 2: Names](https://www.youtube.com/watch?v=hdVG0P11G94&list=PL6BsET-8jgYW16P20tNV8hwpBUiCyQB5c&vq=hd1080), videos 2 - 4
+    - Watch: [CS 61A Lecture 3: Control](https://www.youtube.com/watch?v=WF7EypfJh4A&list=PL6BsET-8jgYUEhr4iByK789l8Jbx9UHjm&vq=hd1080), videos 2 - 3
+    - Watch: [6.00 Lecture 4: Machine interpretation of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
+    - Do: 6.00 Problem set 1
+    - Do: CS 61A Albert's Control Structure Problems (on [Spring 2020 Resources page](https://cs61a.org/resources.html))
+    - Do: CS 61A past exam questions on Control
+6. Designing your own functions
+    - Read: Guttag, ch. 4.2
+    - Read: DeNero, ch. 1.4 - 1.5
+    - Watch: [CS 61A Lecture 3: Control](https://www.youtube.com/watch?v=WF7EypfJh4A&list=PL6BsET-8jgYUEhr4iByK789l8Jbx9UHjm&vq=hd1080), videos 4 - 6
+    - Watch: [6.00 Recitation 2: Loops, tuples, strings, and functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
+    - Do: CS 61A HW 01
+    - Do: CS 61A Lab 01
+    - Do: CS 61A Disc. 01
+7. Higher-order functions
+    - Read: DeNero, ch. 1.6
+    - Read: Guttag, ch. 5.4
+    - Watch: [CS 61A Lecture 4: Higher-order functions](https://www.youtube.com/watch?v=sLCc1QL2QmA&list=PL6BsET-8jgYVW_e0KbBrXbtyDMcTMtCWR&vq=hd1080), videos 2 - 6
+    - Watch: [CS 61A Lecture 5: Environments](https://www.youtube.com/watch?v=8X1UsTFbdiw&list=PL6BsET-8jgYV92mJGKvn8EFs3dKuDQ5h4&vq=hd1080), videos 2 - 6
+    - Do: CS 61A Kevin's Environment Diagram Doc on Lambdas, HOFs, and Nonlocal
+    - Do: CS 61A Albert's HOF Env Diagram Problems
+    - Do: CS 61A Albert's Lambdas Problems
+    - Do: 6.0001 Pset 1
+    - Do: CS 61A past exam questions on higher-order functions
+    - Do: CS 61A past exam questions on Lambda expressions
+    - Do: CS 61A Lab 02
+8. Abstraction, decomposition, and function design
+    - Read: Guttag, ch. 4.5 - 4.6
+    - Read: Downey, *Think Python, 2nd ed.*, ch. 4.8, "[A Development Plan](http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec49)"
+    - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
+    - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
+    - Optional read: *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
+    - Optional read: *Practical Programming, 3rd ed.*, ch. 6, "A Modular Approach to Program Organization"
+    - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
+    - Watch: [CS 61A Lecture 6: Iteration](https://www.youtube.com/watch?v=5ZTFa6cN3o8&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&vq=hd1080), videos 2 - 5
+    - Do: CS 61A Hog project
+    - Do: CS 61A Samantha's Environment Diagram with Lists and Nonlocal Slides
+    - Do: CS 61A Mark's Environment Diagram Notes and Problems
+    - Do: CS 61A Albert's Environment Diagram Problems
+    - Do: CS 61A past exam questions on environment diagrams
+    - Do: CS 61A exam prep 01
+9. Recursion
+    - Read: Guttag, ch. 4.3
+    - Read: DeNero, ch. 1.7 (except 1.7.4 - 1.7.5)
+    - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
+    - Watch: [CS 61A Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
+    - Do: CS 61A HW 02
+    - Do: CS 61A Rachel's Recursion Guide
+    - Do: CS 61A Aaron's Beginner-Friendly Guide to Recursion
+    - Do: CS 61A Albert's Recursion Problems
+    - Do: CS 61A Disc. 02
+10. Tree recursion
+    - Read: DeNero, ch. 1.7.4 - 1.7.5
+    - Read: [How to Design Data Definitions](https://sites.google.com/site/ubccpsc189/how-to-design-data-definitions-htdd), adapted from [*How to Design Programs*](https://htdp.org)
+    - Read: [Template Rules](https://sites.google.com/site/ubccpsc189/template-rules), adapted from [*How to Design Programs*](https://htdp.org)
+    - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
+    - Watch: [CS 61A Lecture 8: Tree recursion](https://www.youtube.com/watch?v=bYJRqGRazS4&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&vq=hd1080), videos 2 - 5
+    - Do: 6.00 Problem set 1, problems 1 - 3 (will do problem 4 later)
+    - Do: CS 61A HW 03
+    - Do: CS 61A HKN Spring 2018 Slides: Recursion
+    - Do: CS 61A Karina & Dennis' Trees + Recursion Slides
+    - Do: CS 61A past exam questions on recursion
+    - Do: CS 61A Lab 03
+    - Do: CS 61A CSM 00: Midterm 1 review
+11. Function examples and review
+    - Watch: [CS 61A Lecture 9: Function examples](https://www.youtube.com/watch?v=mquGAH7Hm74&list=PL6BsET-8jgYVg0YNlIeajft-CawFSgHp9&vq=hd1080), videos 2 - 6
+    - Do: 6.0001 Pset 2 (covers problem 4 of 6.00 Problem set 1)
+    - Do: CS 61A exam prep 02
+    - Do: CS 61A Rachel's Environment Diagram Guide
+    - Do: CS 61A Jennifer's Environment Diagram Cheat Sheet
+    - Do: Work through CS 61A past mock exam for Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html) to ensure exam matches material we've covered)
+    - Do: Work through at least 1 (and preferably more) CS 61A past Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html))
+
+### Exam 1
+
+- Set a 2 hour time block and get as far through one of CS 61A's past Midterm 1 exams as you can. Follow the restrictions in the course syllabus.
+- Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
+- Repeat if needed until you can get most or all of the answers right.
+
+### III. Python data types and object-oriented programming
+
+12. An overview of Python containers
+    - Read: Guttag, ch. 5
+    - Watch: 6.00 Lecture 5: Objects in Python
+13. Tuples, lists, and mutability
+    - Watch: 6.0001 Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning
+14. Dictionaries
+    - Watch: 6.0001 Lecture 6: Recursion, Dictionaries
+15. A closer look at data abstraction
+    - Read: DeNero, ch. 2.1 - 2.2
+    - Watch: CS 61A Lecture 10: Data abstraction, videos 2 - 4
+16. Working with Python sequences
+    - Read: DeNero, ch. 2.3.1 - 2.3.5
+    - Watch: CS 61A Lecture 11: Containers, videos 2 - 6
+17. A deeper look at mutable vs. immutable data
+    - Read: DeNero, ch. 2.4
+    - CS 61A Lecture 13: Mutable values, videos 2 - 6
+    - CS 61A Lecture 14: Mutable functions, videos 2 - 5
+18. Debugging
+    - Read: Guttag, ch. 6
+    - Watch: 6.00 Lecture 7: Debugging
+    - Watch: 6.00 Recitation 4: Recursion, pseudo-code, and debugging
+19. Testing and assertions
+    - Read: Guttag, ch. 7
+    - Watch: 6.0001 Lecture 7: Testing, Debugging, Exceptions, Assertions
+20. Object-oriented programming
+    - Read: Guttag, ch. 8.1
+    - Read: DeNero, ch. 2.5.1 - 2.5.4
+    - Watch: 6.0001 Lecture 8: Object-oriented programming
+    - Watch: CS 61A Lecture 15: Objects, videos 2 - 5
+21. Object and class inheritance
+    - Read: Guttag, ch. 8.2 - 8.4
+    - Read: DeNero, ch. 2.5.5 - 2.5.8
+    - Watch: 6.00 Lecture 11: OOP and inheritance
+    - Watch: 6.0001 Lecture 9: Python classes and inheritance
+22. Object design and representation
+    - Read: DeNero, ch. 2.6 - 2.7
+    - Read: [Class Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/class_design_recipe.pdf)
+    - Watch: CS 61A Lecture 16: Inheritance, videos 2 - 8
+    - Watch: CS 61A Lecture 17: Representation, videos 2 - 4
+23. Quiz: Take 6.0001 quiz 1 (if such a thing can be found)
+
+### IV. Algorithms and more complex data structures
+
+24. Program efficiency and asymptotics
+    - Read: Guttag, ch. 9
+    - Optional read: *Practical Programming, 3rd ed.*, ch. 12, "Designing Algorithms"
+    - Watch: 6.00 Lecture 8: Efficiency and order of growth
+    - Watch: 6.00 Optional recitation: Algorithm complexity and class review
+    - Watch: 6.0001 Lecture 10: Understanding program efficiency part I
+    - Watch: 6.0001 Lecture 11: Understanding program efficiency part II
+25. Searching and sorting algorithms
+    - Read: Guttag, ch. 10.1 - 10.2
+    - Watch: 6.00 Lecture 9: Memory and search methods
+    - Watch: 6.0001 Lecture 12: Searching and sorting algorithms
+    - find more material
+26. Hash tables
+    - Read: Guttag, ch. 10.3 - 10.4
+    - Watch: 6.00 Lecture 10: Hashing and classes
+    - find more material
+27. Take 6.00 quiz 1
+28. Linked lists and trees
+    - Read: DeNero, ch. 2.3.6 - 2.3.7
+    - Watch: CS 61A Lecture 12: Trees, videos 2 - 8
+    - find more material
+29. Complexity and growth
+    - Read: DeNero, ch. 2.8
+    - Read: CS 61A Lecture 18: Growth, videos 2 - 8
+    - find more material
+30. Object composition and recursive objects
+    - Read: DeNero, ch. 2.9.1 - 2.9.2
+    - Watch: CS 61A Lecture 19: Composition, videos 2 - 5
+    - find more material
+31. Sets, tree sets, and binary search trees
+    - Read: DeNero, ch. 2.9.3
+    - Watch: CS 61A Lecture 20: Ordered sets, videos 2 - 5
+    - Watch: CS 61A Lecture 21: Tree sets, videos 2 - 3, 5
+    - find more material
+    - Subclassing, interators, and simulations
+    - Read: Guttag, ch. 11
+    - Watch: 6.00 Lecture 12: Introduction to Simulation and Random Walks
+    - Watch: 6.0002 Lecture 5: Random Walks
+32. Optimization problems
+    - Read: Guttag, ch. 12.1
+    - Watch: 6.00 Lecture 18: Optimization Problems and Algorithms
+    - Watch: 6.0002 Lecture 1: Introduction and Optimization Problems
+33. Dynamic programming
+    - Read: Guttag, ch. 13
+    - Watch: 6.0002 Lecture 2: Optimization Problems
+    - Watch: 6.00 Lecture 23: Dynamic Programming
+    - Watch: 6.00 Recitation 10: Introduction to Dynamic Programming
+34. Graphs and graph problems
+    - Read: Guttag, ch. 12.1
+    - Watch: 6.00 Lecture 21: Using Graphs to Model Problems, Part 1
+    - Watch: 6.00 Lecture 22: Using Graphs to Model Problems, Part 2
+    - Watch: 6.0002 Lecture 3: Graph-theoretic Models
+35. Data examples and review
+    - Watch: CS 61A Lecture 22: Data examples, videos 2 - 7
+    - Do: 6.0001 final exam practice problems
+    - Do: Problems from 6.00 and 6.0002 materials relevant to what we've covered so far
+    - find more material, esp. about 6.0001/6.0002 content
+
+### Exam 2
+
+- Set a 2 hour time block and get as far through one of CS 61A's past Midterm 2 exams as you can. Follow the restrictions in the course syllabus.
+- Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
+- Repeat if needed until you can get most or all of the answers right.
+
+### V. Using data to solve problems
+
+36. Stochastic problems
+    - Read: Guttag, ch. 14
+    - Watch: 6.0002 Lecture 4: Stochastic Thinking
+37. Taking Monty Hall to Monte Carlo: Randomness and non-random problems
+    - Read: Guttag, ch. 15 - 16
+    - Watch: 6.00 Lecture 14: Sampling and Monte Carlo Simulation
+    - Watch: 6.00 Lecture 16: Using Randomness to Solve Non-random Problems
+38. Statistical thinking
+    - Read: Guttag, ch. 17
+    - Watch: 6.0002 Lecture 7: Confidence Intervals
+    - Watch: 6.0002 Lecture 8: Sampling and Standard Error
+    - Watch: 6.00 Lecture 15: Statistical Thinking
+    - Watch: 6.00 Recitation 6: Probability and Statistics
+39. Using experimental data
+    - Read: Guttag, ch. 18 - 20
+    - Watch: 6.0002 Lecture 9: Understanding Experimental Data, pt. 1
+    - Watch: 6.0002 Lecture 10: Understanding Experimental Data, pt. 2
+    - Watch: 6.00 Lecture 17: Curve Fitting
+    - Watch: 6.00 Recitation 7: Distributions, Monte Carlo, and Regressions
+40. Machine learning
+    - Read: Guttag, ch. 22
+    - Watch: 6.0002 Lecture 11: Introduction to Machine Learning
+    - Watch: 6.00 Lecture 25: Queuing Network Models
+42. Clustering
+    - Read: Guttag, ch. 23
+    - Watch: 6.0002 Lecture 12: Clustering
+    - Watch: 6.00 Lecture 19: More Optimization and Clustering
+    - Watch: 6.00 Lecture 20: More Clustering
+43. Classification
+    - Read: Guttag, ch. 24
+    - Watch: 6.0002 Lecture 13: Classification
+    - Watch: 6.00 Recitation 8: Hierarchical and k-means Clustering
+44. Statistical sins
+    - Read: Guttag, ch. 21
+    - Watch: 6.0002 Lecture 14: Classification and Statistical Sins
+    - Watch: 6.0002 Lecture 15: Statistical Sins and Wrap Up
+    - Watch: 6.00 Lecture 24: Avoiding Statistical Fallacies
+45. Wrap up
+    - Watch: 6.00 Lecture 26: What Do Computer Scientists Do?
+    - Find more review material
+
+### Final exam
+- Set a 3 hour time block and take the 6.0001 and 6.0002 final exams, adding questions from 6.00 quizzes 2-3 and the 61A exams as appropriate.
+- Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
+- Repeat if needed until you can get most or all of the answers right.
