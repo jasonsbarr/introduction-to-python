@@ -197,7 +197,6 @@ Get creative and have fun with it!
     - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
     - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
     - Optional read: *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
-    - Optional read: *Practical Programming, 3rd ed.*, ch. 6, "A Modular Approach to Program Organization"
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
     - Watch: [CS 61A Lecture 6: Iteration](https://www.youtube.com/watch?v=5ZTFa6cN3o8&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&vq=hd1080), videos 2 - 5
     - Do: CS 61A Hog project
