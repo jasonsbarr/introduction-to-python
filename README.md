@@ -168,6 +168,7 @@ Get creative and have fun with it!
     - Do: Continue doing practice problems on HackerRank and other sites throughout the whole course
 3. Simple algorithms
     - Read: Guttag, ch. 3
+    - Read: [Case study: word play](http://greenteapress.com/thinkpython2/html/thinkpython2010.html) (do exercises)
     - Watch: 6.0001 [Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection Search](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/)
     - Watch: 6.00 [Lecture 3: Problem solving](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-3-problem-solving/)
     - Note: You will generally see the algorithm they call "bisection search" referred to as "binary search" on coding websites and in algorithm problems.
