@@ -37,6 +37,15 @@ I'll also be using the Berkeley course textbook, which is available freely onlin
 
 You *definitely* want to make sure to do the readings from it, as it covers material and examples not found in the CS 61A lectures.
 
+I'm also using these for supplementary readings and extra study:
+
+- [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html), by Bradley Miller and David Ranum
+- [Data Structures and Algorithms with Python](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
+- [Python Data Structures and Algorithms](https://www.amazon.com/Python-Data-Structures-Algorithms-application-ebook/dp/B01IF7NLM8), by Benjamin Baka
+- [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
+- [How to Think like a Data Scientist](https://runestone.academy/runestone/books/published/httlads/index.html)
+
 ### Practice problems
 
 There is an extensive collection of practice problems on the CS 61A website, plus assignments, projects, labs, and more. The problem sets for 6.0001 are also available on the OpenCourseWare site.
@@ -275,6 +284,9 @@ Get creative and have fun with it!
     - Read: DeNero, ch. 2.4
     - Watch: [CS 61A Lecture 13: Mutable values, videos 2 - 6](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2)
     - Watch: [CS 61A Lecture 14: Mutable functions, videos 2 - 5](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2)
+    - Do: CS 61A Lab 04: Data Abstraction and Lists
+    - Do: CS 61A CSM 01: Tree Recursion and Data Abstraction
+    - Do: CS 61A Disc 04: Nonlocals and Mutation
 18. Debugging
     - Read: Guttag, ch. 6
     - Watch: [6.00 Lecture 7: Debugging](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-7-debugging/)
@@ -296,6 +308,8 @@ Get creative and have fun with it!
     - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
     - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
     - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
+    - Do: CS 61A Lab 06: Object Oriented Programming
+    - Do: CS 61A Disc 05: Object Oriented Programming
 22. Object and class inheritance
     - Read: Guttag, ch. 8.2 - 8.4
     - Read: DeNero, ch. 2.5.5 - 2.5.8
@@ -303,6 +317,8 @@ Get creative and have fun with it!
     - Watch: [6.0001 Lecture 9: Python classes and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/) (Skip section on quiz 1 answers)
     - Read: [Inheritance](http://greenteapress.com/thinkpython2/html/thinkpython2019.html) (do exercises)
     - Do: [CS 61A HW 05](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw05/)
+    - Do: CS 61A CSM 03: Mutation and Nonlocal
+    - Do: CS 61A Exam Prep 05: Nonlocal and Object-Oriented Programming
 23. Object design and representation
     - Read: DeNero, ch. 2.6 - 2.7
     - Read: [Class Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/class_design_recipe.pdf)
@@ -324,15 +340,16 @@ Get creative and have fun with it!
 25. Searching and sorting algorithms
     - Read: Guttag, ch. 10.1 - 10.2
     - Read: [Sorting, searching, and algorithm analysis](https://python-textbok.readthedocs.io/en/1.0/Sorting_and_Searching_Algorithms.html) (don't worry about space complexity)
-    - Read: [6. Sorting and Searching](https://runestone.academy/runestone/books/published/pythonds/SortSearch/toctree.html) (do exercises)
+    - Read: [6. Sorting and Searching](https://runestone.academy/runestone/books/published/pythonds/SortSearch/toctree.html) (skip 6.5, do exercises)
     - Read and watch: [Search Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-4-probability-and-planning/search-algorithms/)
     - Read and watch: [Optimizing a Search](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-4-probability-and-planning/optimizing-a-search/)
     - Watch: [6.00 Lecture 9: Memory and search methods](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-9-memory-and-search-methods/)
     - Watch: [6.0001 Lecture 12: Searching and sorting algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/)
-26. Take 6.00 quiz 1
+    - Do: 6.0001 Pset 5
+26. Take 6.0001 Final Quiz
 27. Hash tables
     - Read: Guttag, ch. 10.3 - 10.4
-    - Read: [Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
+    - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
     - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
     - Read: [Python hashing tutorial](http://zetcode.com/python/hashing/)
     - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
@@ -341,58 +358,85 @@ Get creative and have fun with it!
     - Do: [Hog contest](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/hog_contest)
     - Optional:
       - Read: Baka, *Python Data Structures and Algorithms*, ch. 7
-      - Read: Lee and Hubbard, *Data Structures and Algorithms with Python*, ch. 5
-28. Linked lists and trees
+      - Read: Lee and Hubbard, *Data Structures and Algorithms with Python*, ch. 5 (maps only)
+      - Read: Goodrich, Tamassia, and Goldwasser, *Data Structures & Algorithms in Python*, ch. 10
+28. Trees
     - Read: DeNero, ch. 2.3.6 - 2.3.7
+    - Read: [Trees and Tree Algorithms](https://runestone.academy/runestone/books/published/pythonds/Trees/toctree.html) (do exercises)
+    - Watch: [CS 61A Lecture 12: Trees, videos 2 - 8](https://www.youtube.com/watch?v=c3xKjzbSxqg&list=PL6BsET-8jgYU_D4zfjxpO_ItfvMimn4Yv&index=2)
+    - Do: CS 61A Disc 03: Trees & Sequences
+    - Do: CS 61A Lab 05: Mutable Sequences and Trees
+    - Do: CS 61A CSM 02: Lists and Trees
+    - Optional:
+      - Read: Baka, ch. 6
+      - Read: Lee and Hubbard, ch. 6
+      - Read: Goodrich, Tamassia, and Goldwasser, ch. 8
+29. Complexity and growth
+    - Read: DeNero, ch. 2.8
+    - Read: [3. Analysis](https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/toctree.html) (do exercises)
+    - Watch: [CS 61A Lecture 18: Growth, videos 2 - 8](https://www.youtube.com/watch?v=DWhsOSHjY98&list=PL6BsET-8jgYX5-rjCovKDAwPQHkiCwvEU&index=2)
+    - Do: [CS 61A Map Project](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/maps/)
+    - Do: CS 61A Exam Prep 03: Lists, Trees, & Tree Recursion
+    - Optional:
+      - Read: Baka, ch. 4
+      - Lee and Hubbard, ch. 2
+      - Goodrich, Tamassia, and Goldwasser, ch. 3
+30. Object composition and recursive objects
+    - Read: DeNero, ch. 2.9.1 - 2.9.2
     - Read: [Python Linked Lists](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
     - Read: [Linked lists, from data structures in practice](https://www.data-structures-in-practice.com/linked-lists/)
     - Read: [Basic Data Structures](https://runestone.academy/runestone/books/published/pythonds/BasicDS/toctree.html) (do exercises)
-    - Read: [Trees and Tree Algorithms](https://runestone.academy/runestone/books/published/pythonds/Trees/toctree.html) (do exercises)
-    - Read: [Sequences](http://knuth.luther.edu/~leekent/CS2Plus/chap4/chap4.html)
-    - Read: [Trees](http://knuth.luther.edu/~leekent/CS2Plus/chap6/chap6.html)
-    - Watch: [CS 61A Lecture 12: Trees, videos 2 - 8](https://www.youtube.com/watch?v=c3xKjzbSxqg&list=PL6BsET-8jgYU_D4zfjxpO_ItfvMimn4Yv&index=2)
-    - Do: [CS 61A Map Project](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/maps/)
+    - Watch: [CS 61A Lecture 19: Composition, videos 2 - 5](https://www.youtube.com/watch?v=yC4WPw_6ehY&list=PL6BsET-8jgYWKyc-ouo_hTpzAWtwCPPxa&index=2)
+    - Do: CS 61A Lab 07: Recursive Objects
+    - Do: CS 61A CSM 04: OOP and OOG
+    - Do: CS 61A Disc 06: Growth & Linked Lists
+    - Do: [CS 61A Ants project](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/ants)
     - Optional:
-      - Read: Baka, ch. 4 - 6
-      - Lee and Hubbard, ch. 4, 6, 10, 11
-29. Complexity and growth
-    - Read: DeNero, ch. 2.8
-    - Read: CS 61A Lecture 18: Growth, videos 2 - 8
-    - find more material
-30. Object composition and recursive objects
-    - Read: DeNero, ch. 2.9.1 - 2.9.2
-    - Watch: CS 61A Lecture 19: Composition, videos 2 - 5
-    - find more material
+      - Read: Baka, ch. 4 - 5
+      - Read: Lee and Hubbard, ch. 4
+      - Read: Goodrich, Tamassia, and Goldwasser, ch. 6 - 7
 31. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
-    - Watch: CS 61A Lecture 20: Ordered sets, videos 2 - 5
-    - Watch: CS 61A Lecture 21: Tree sets, videos 2 - 3, 5
-    - find more material
-32. Iterators and simulations
-    - Read: Guttag, ch. 11
-    - Watch: 6.00 Lecture 12: Introduction to Simulation and Random Walks
-    - Watch: 6.0002 Lecture 5: Random Walks
-33. Optimization problems
+    - Watch: [CS 61A Lecture 20: Ordered sets, videos 2 - 6](https://www.youtube.com/watch?v=O-e3IMfNyhM&list=PL6BsET-8jgYXzWgS7H0xgwXoAfE_oc5Qb&index=2)
+    - Watch: [CS 61A Lecture 21: Tree sets, videos 2 - 3, 5](https://www.youtube.com/watch?v=bb1H5Mf6o6g&list=PL6BsET-8jgYW4UWd5R37kQycegdTdIhsS&index=2)
+    - Do: CS 61A Exam Prep 04: List Mutation, Dictionaries, & More Trees
+    - Do: [CS 61A HW 06](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw06/)
+    - Do: CS 61A Lab 08: Midterm Review
+    - Do: CS 61A CSM 05: Linked Lists and Midterm Review
+    - Optional:
+      - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
+      - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
+32. Optimization problems
     - Read: Guttag, ch. 12.1
-    - Watch: 6.00 Lecture 18: Optimization Problems and Algorithms
-    - Watch: 6.0002 Lecture 1: Introduction and Optimization Problems
-34. Dynamic programming
+    - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
+    - Watch: [6.0002 Lecture 1: Introduction and Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
+    - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
+    - Optional:
+      - Read: [How to Think like a Data Scientist](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
+33. Dynamic programming
     - Read: Guttag, ch. 13
-    - Watch: 6.0002 Lecture 2: Optimization Problems
-    - Watch: 6.00 Lecture 23: Dynamic Programming
-    - Watch: 6.00 Recitation 10: Introduction to Dynamic Programming
-35. Graphs and graph problems
+    - Watch: [6.0002 Lecture 2: Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/)
+    - Watch: [6.00 Lecture 23: Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-23-dynamic-programming/)
+    - Watch: [6.00 Recitation 10: Introduction to Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/#?w=535)
+    - Do: 6.0002 PSet 1
+34. Graphs and graph problems
     - Read: Guttag, ch. 12.1
-    - Watch: 6.00 Lecture 21: Using Graphs to Model Problems, Part 1
-    - Watch: 6.00 Lecture 22: Using Graphs to Model Problems, Part 2
-    - Watch: 6.0002 Lecture 3: Graph-theoretic Models
-36. Data examples and review
-    - Watch: CS 61A Lecture 22: Data examples, videos 2 - 7
+    - Read: [8. Graphs and Graph Algorithms](https://runestone.academy/runestone/books/published/pythonds/Graphs/toctree.html)
+    - Watch: [6.00 Lecture 21: Using Graphs to Model Problems, Part 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-21-using-graphs-to-model-problems-part-1/)
+    - Watch: [6.00 Lecture 22: Using Graphs to Model Problems, Part 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-22-using-graphs-to-model-problems-part-2/)
+    - Watch: [6.00 Recitation 9: Directed and Undirected Node Graphs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-22-using-graphs-to-model-problems-part-2/#?w=535)
+    - Watch: [6.0002 Lecture 3: Graph-theoretic Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/)
+    - Optional:
+      - Baka, ch. 8
+      - Lee and Hubbard, ch. 7
+      - Goodrich, Tamassia, and Goldwasser, ch. 14
+35. Data examples and review
+    - Watch: [CS 61A Lecture 22: Data examples, videos 2 - 7](https://www.youtube.com/watch?v=6qjhVNPwdUE&list=PL6BsET-8jgYWRTU90CoXS2iWz_USTRL0c&index=2)
     - Do: 6.0001 final exam practice problems
-    - Do: Problems from 6.00 and 6.0002 materials relevant to what we've covered so far
-    - find more material, esp. about 6.0001/6.0002 content
+    - Do: Problems relevant to what we've covered from 6.00 and 6.0002 so far
+    - Do: 6.0002 PSet 2 and 6.00 Problem set 11
 
-### Exam 2
+### Exam 2 &ndash; CS 61A Midterm 2 and 6.00 Quiz 1
 
 - Set a 2 hour time block and get as far through one of CS 61A's past Midterm 2 exams as you can. Follow the restrictions in the course syllabus.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
@@ -400,48 +444,62 @@ Get creative and have fun with it!
 
 ### V. Using data to solve problems
 
-37. Stochastic problems
+36. Stochastic problems
     - Read: Guttag, ch. 14
-    - Watch: 6.0002 Lecture 4: Stochastic Thinking
+    - Watch: [6.0002 Lecture 4: Stochastic Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/)
+    - Do: 6.00 Problem set 5
+37. Simulations, probability, random walks, and plotting
+    - Read: Guttag, ch. 11
+    - Watch: [6.00 Lecture 12: Introduction to Simulation and Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-12-introduction-to-simulation-and-random-walks/)
+    - Watch: [6.0002 Lecture 5: Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/)
+    - Watch: [6.00 Lecture 13: Some Basic Probability and Plotting Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-13-some-basic-probability-and-plotting-data/)
 38. Taking Monty Hall to Monte Carlo: Randomness and non-random problems
     - Read: Guttag, ch. 15 - 16
-    - Watch: 6.00 Lecture 14: Sampling and Monte Carlo Simulation
-    - Watch: 6.00 Lecture 16: Using Randomness to Solve Non-random Problems
+    - Watch: [6.00 Lecture 14: Sampling and Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-14-sampling-and-monte-carlo-simulation/)
+    - Watch: [6.0002 Lecture 6: Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/)
+    - Watch: [6.00 Lecture 16: Using Randomness to Solve Non-random Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/)
+    - Do: 6.0002 PSet 3 and 6.00 Problem set 6
 39. Statistical thinking
     - Read: Guttag, ch. 17
-    - Watch: 6.0002 Lecture 7: Confidence Intervals
-    - Watch: 6.0002 Lecture 8: Sampling and Standard Error
-    - Watch: 6.00 Lecture 15: Statistical Thinking
-    - Watch: 6.00 Recitation 6: Probability and Statistics
+    - Watch: [6.0002 Lecture 7: Confidence Intervals](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/)
+    - Watch: [6.0002 Lecture 8: Sampling and Standard Error](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/)
+    - Watch: [6.00 Lecture 15: Statistical Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/)
+    - Watch: [6.00 Recitation 6: Probability and Statistics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/#?w=535)
+    - Do: 6.0002 PSet 4 and 6.00 Problem set 7
 40. Using experimental data
     - Read: Guttag, ch. 18 - 20
-    - Watch: 6.0002 Lecture 9: Understanding Experimental Data, pt. 1
-    - Watch: 6.0002 Lecture 10: Understanding Experimental Data, pt. 2
-    - Watch: 6.00 Lecture 17: Curve Fitting
-    - Watch: 6.00 Recitation 7: Distributions, Monte Carlo, and Regressions
-41. Machine learning
+    - Watch: [6.0002 Lecture 9: Understanding Experimental Data, pt. 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/)
+    - Watch: [6.0002 Lecture 10: Understanding Experimental Data, pt. 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-10-understanding-experimental-data-cont./)
+    - Watch: [6.00 Lecture 17: Curve Fitting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/)
+    - Watch: [6.00 Recitation 7: Distributions, Monte Carlo, and Regressions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/#?w=535)
+    - Do: 6.00 Problem set 8 (continuation of 6.0002 - PS 4/6.00 - PS 7)
+41. 6.00 Quiz 2
+42. Machine learning
     - Read: Guttag, ch. 22
-    - Watch: 6.0002 Lecture 11: Introduction to Machine Learning
-    - Watch: 6.00 Lecture 25: Queuing Network Models
-42. Clustering
+    - Watch: [6.0002 Lecture 11: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
+    - Watch: [6.00 Lecture 25: Queuing Network Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
+    - Do: 6.00 Problem Set 9
+43. Clustering
     - Read: Guttag, ch. 23
-    - Watch: 6.0002 Lecture 12: Clustering
-    - Watch: 6.00 Lecture 19: More Optimization and Clustering
-    - Watch: 6.00 Lecture 20: More Clustering
-43. Classification
+    - Watch: [6.0002 Lecture 12: Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/)
+    - Watch: [6.00 Lecture 19: More Optimization and Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-19-more-optimization-and-clustering/)
+    - Watch: [6.00 Lecture 20: More Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/)
+    - Watch: [6.00 Recitation 8: Hierarchical and k-means Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/#?w=535)
+    - Do 6.00 Problem set 10
+44. Classification
     - Read: Guttag, ch. 24
-    - Watch: 6.0002 Lecture 13: Classification
-    - Watch: 6.00 Recitation 8: Hierarchical and k-means Clustering
-44. Statistical sins
+    - Watch: [6.0002 Lecture 13: Classification](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/)
+    - Do: 6.0002 PSet 5
+45. Statistical sins
     - Read: Guttag, ch. 21
-    - Watch: 6.0002 Lecture 14: Classification and Statistical Sins
-    - Watch: 6.0002 Lecture 15: Statistical Sins and Wrap Up
-    - Watch: 6.00 Lecture 24: Avoiding Statistical Fallacies
-45. Wrap up
-    - Watch: 6.00 Lecture 26: What Do Computer Scientists Do?
-    - Find more review material
+    - Watch: [6.0002 Lecture 14: Classification and Statistical Sins](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/)
+    - Watch: [6.00 Lecture 24: Avoiding Statistical Fallacies](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/)
+    - Do: 6.00 final exam
+46. Wrap up
+    - Watch: [6.0002 Lecture 15: Statistical Sins and Wrap Up](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/)
+    - Watch: [6.00 Lecture 26: What Do Computer Scientists Do?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
 
 ### Final exam
-- Set a 3 hour time block and take the 6.0001 and 6.0002 final exams, adding questions from 6.00 quizzes 2-3 and the 61A exams as appropriate.
+- Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 final exam and the 61A exams as appropriate.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
