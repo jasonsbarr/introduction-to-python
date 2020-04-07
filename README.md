@@ -559,7 +559,7 @@ Get creative and have fun with it!
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
-### Final project
+## Final project
 
 *Not part of either the MIT or Berkeley courses &ndash; I just thought a project would be a good way to provide a capstone experience for the course*
 
