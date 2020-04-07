@@ -39,7 +39,7 @@ I'll also be using the Berkeley course textbook, which is available freely onlin
 
 You *definitely* want to make sure to do the readings from it, as it covers material and examples not found in the CS 61A lectures.
 
-I'm also using these for supplementary readings and extra study:
+I'm also using these for supplementary readings and extra study, (some of which are freely available online):
 
 - [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
 - [*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science/dp/1680502689/ref=dp_ob_title_bk), by Paul Gries, Jennifer Campbell, and Jason Montojo
@@ -561,7 +561,7 @@ Get creative and have fun with it!
 
 ## Final project
 
-*Not part of either the MIT or Berkeley courses &ndash; I just thought a project would be a good way to provide a capstone experience for the course*
+*Not part of either the MIT or Berkeley courses &ndash; I just thought a project would be a good way to provide a capstone experience for the course. After all, the point of programming is to **build things**, not just to do exercises and quizzes/exams.*
 
 Build a major, data-driven application with a web-based REST API and interactive GUI. GUI can be web-based or a desktop/mobile app (bonus points for both). Research and use good architectural practices and information security practices. The GUI should display and allow user interaction with the processed data set and its visualizations.
 
