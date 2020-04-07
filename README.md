@@ -27,6 +27,8 @@ It uses materials from the following courses, which are freely available online:
 
 I am only using the Python material from CS 61A, not the materials on Scheme and SQL.
 
+*Since the current (Spring 2020) Berkeley course is now through the whole section on Python, I may switch from 2018 to the latest materials for ease of finding resources*
+
 ### Textbooks
 
 The first textbook I'll be following is [*Introduction to Computation and Programming using Python With Application to Understanding Data, 2nd ed.*](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition) by John V. Guttag, which is the textbook for the MIT courses [(Amazon)](https://www.amazon.com/Introduction-Computation-Programming-Using-Python-ebook/dp/B01K6F2236). It covers the material from the OpenCourseWare lectures in greater depth, though you can still get a lot from the video lectures if you can't afford it (or don't want to buy it).
@@ -280,18 +282,25 @@ Get creative and have fun with it!
     - Read: DeNero, ch. 2.3.1 - 2.3.5
     - Watch: [CS 61A Lecture 11: Containers, videos 2 - 8](https://www.youtube.com/watch?v=-Q45UcQ2XJk&list=PL6BsET-8jgYUi0aglfZx9AWBgm_cDnLwx&index=2)
     - Do: 61A Exam Questions on Python Lists
+    - Do: CS 61A (Spring 2020) practice problems on data abstraction
+    - Do: CS 61A (Spring 2020) past exam questions on data abstraction
 17. A deeper look at mutable vs. immutable data
     - Read: DeNero, ch. 2.4
     - Watch: [CS 61A Lecture 13: Mutable values, videos 2 - 6](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2)
     - Watch: [CS 61A Lecture 14: Mutable functions, videos 2 - 5](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2)
+    - Watch: [CS 61A Lecture 16 (Spring 2020): Iterators, videos 2 - 7](https://www.youtube.com/watch?v=On-kFyFp8HY&list=PL6BsET-8jgYWPYsrAfTAN8rvBzk5cYfUZ&index=2)
     - Do: CS 61A Lab 04: Data Abstraction and Lists
     - Do: CS 61A CSM 01: Tree Recursion and Data Abstraction
     - Do: CS 61A Disc 04: Nonlocals and Mutation
+    - Do: CS 61A Lab 06 (Spring 2020): Iterators and Generators
+    - Do: CS 61A Disc 06 (Spring 2020): Iterators and Generators
 18. Debugging
     - Read: Guttag, ch. 6
     - Watch: [6.00 Lecture 7: Debugging](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-7-debugging/)
     - Watch: [6.00 Recitation 4: Recursion, pseudo-code, and debugging](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-7-debugging/#?w=535)
     - Do: 6.00 Problem set 4
+    - Do: CS 61A (Spring 2020) practice problems on iterators & generators
+    - Do: CS 61A (Spring 2020) past exam questions on iterators & generators
     - Optional:
       - Read: [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
       - Read: [Appendix A: Debugging](http://greenteapress.com/thinkpython2/html/thinkpython2021.html)
@@ -367,6 +376,7 @@ Get creative and have fun with it!
     - Do: CS 61A Disc 03: Trees & Sequences
     - Do: CS 61A Lab 05: Mutable Sequences and Trees
     - Do: CS 61A CSM 02: Lists and Trees
+    - Do: CS 61A Guerrilla 02 (Spring 2020): Data Abstraction, Trees, Nonlocal, Iterators & Generators
     - Optional:
       - Read: Baka, ch. 6
       - Read: Lee and Hubbard, ch. 6
@@ -377,6 +387,8 @@ Get creative and have fun with it!
     - Watch: [CS 61A Lecture 18: Growth, videos 2 - 8](https://www.youtube.com/watch?v=DWhsOSHjY98&list=PL6BsET-8jgYX5-rjCovKDAwPQHkiCwvEU&index=2)
     - Do: [CS 61A Map Project](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/maps/)
     - Do: CS 61A Exam Prep 03: Lists, Trees, & Tree Recursion
+    - Do: CS 61A (Spring 2020) practice problems on trees
+    - Do: CS 61A (Spring 2020) past exam questions on trees
     - Optional:
       - Read: Baka, ch. 4
       - Lee and Hubbard, ch. 2
@@ -403,6 +415,8 @@ Get creative and have fun with it!
     - Do: [CS 61A HW 06](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw06/)
     - Do: CS 61A Lab 08: Midterm Review
     - Do: CS 61A CSM 05: Linked Lists and Midterm Review
+    - Do: CS 61A (Spring 2020) practice problems on linked lists
+    - Do: CS 61A (Spring 2020) past exam questions on linked lists
     - Optional:
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
