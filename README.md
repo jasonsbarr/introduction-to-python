@@ -554,10 +554,15 @@ Get creative and have fun with it!
       - Lott, *MOOP*, pts. 2 - 3 (do exercises)
 
 ### Final exam
+
 - Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 final exam and the 61A exams as appropriate.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
-## Following up: Python applications
+### Final project
 
-As a follow-up to this course, it might be helpful to work on programming GUI and/or web apps in Python using TKinter, Flask, Django, or other libraries and frameworks.
+*Not part of either the MIT or Berkeley courses &ndash; I just thought a project would be a good way to provide a capstone experience for the course*
+
+Build a major, data-driven application with a web-based REST API and interactive GUI. GUI can be web-based or a desktop/mobile app (bonus points for both). Research and use good architectural practices and information security practices. The GUI should display and allow user interaction with the processed data set and its visualizations.
+
+Application should implement data structures learned in this course, relevant machine learning and data science techniques, functional and object-oriented patterns, and file and/or database I/O.
