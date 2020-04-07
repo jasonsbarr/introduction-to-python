@@ -42,11 +42,14 @@ You *definitely* want to make sure to do the readings from it, as it covers mate
 I'm also using these for supplementary readings and extra study:
 
 - [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html), by Bradley Miller and David Ranum
-- [Data Structures and Algorithms with Python](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
-- [Python Data Structures and Algorithms](https://www.amazon.com/Python-Data-Structures-Algorithms-application-ebook/dp/B01IF7NLM8), by Benjamin Baka
-- [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
-- [How to Think like a Data Scientist](https://runestone.academy/runestone/books/published/httlads/index.html)
+- [*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science/dp/1680502689/ref=dp_ob_title_bk), by Paul Gries, Jennifer Campbell, and Jason Montojo
+- [*Problem Solving with Algorithms and Data Structures using Python*](https://runestone.academy/runestone/books/published/pythonds/index.html), by Bradley Miller and David Ranum
+- [*Data Structures and Algorithms with Python*](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
+- [*Python Data Structures and Algorithms*](https://www.amazon.com/Python-Data-Structures-Algorithms-application-ebook/dp/B01IF7NLM8), by Benjamin Baka
+- [*Data Structures and Algorithms in Python*](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
+- [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html)
+- [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/)
+- [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/)
 
 ### Practice problems
 
@@ -273,13 +276,17 @@ Get creative and have fun with it!
       - Read: [More on Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
       - Do: 6.0001 PSet 3
 13. Tuples, lists, and mutability
-    - Watch: [6.0001 Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
-    - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Read: [Lists](http://greenteapress.com/thinkpython2/html/thinkpython2011.html) (do exercises)
     - Read: [Tuples](http://greenteapress.com/thinkpython2/html/thinkpython2013.html) (do exercises)
+    - Watch: [6.0001 Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
+    - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
+    - Optional:
+      - Gries, Campbell, and Montojo, *Practical Programming*, ch. 8 (do exercises)
 14. Dictionaries
-    - Watch: [6.0001 Lecture 6: Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/)
     - Read: [Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html) (do exercises)
+    - Watch: [6.0001 Lecture 6: Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/)
+    - Optional:
+      - Gries, Campbell, and Montojo, ch. 11
     - Do: 6.00 Problem set 3, Part B
 15. A closer look at data abstraction
     - Read: DeNero, ch. 2.1 - 2.2
@@ -316,6 +323,8 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 7
     - Watch: [6.0001 Lecture 7: Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-7-testing-debugging-exceptions-and-assertions/)
     - Do: 6.0001 PSet 4, Parts A & C
+    - Optional:
+      - Read: Gries, Campbell, and Montojo, ch. 15 (do exercises)
 20. Quiz: Take 6.0001 quiz 1 (if such a thing can be found)
 21. Object-oriented programming
     - Read: Guttag, ch. 8.1
@@ -324,10 +333,11 @@ Get creative and have fun with it!
     - Watch: [CS 61A Lecture 15: Objects, videos 2 - 5](https://www.youtube.com/watch?v=A_EFoT4cBSk&list=PL6BsET-8jgYUIiXSvk-fKPZD13EyQOt0O&index=2)
     - Do: CS 61A Lab 06: Object Oriented Programming
     - Do: CS 61A Disc 05: Object Oriented Programming
+    - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
+    - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
+    - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
     - Optional:
-      - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
-      - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
-      - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
+    - Gries, Campbell, and Montojo, ch. 14
 22. Object and class inheritance
     - Read: Guttag, ch. 8.2 - 8.4
     - Read: DeNero, ch. 2.5.5 - 2.5.8
@@ -363,6 +373,8 @@ Get creative and have fun with it!
     - Read and watch: [Optimizing a Search](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-4-probability-and-planning/optimizing-a-search/)
     - Watch: [6.00 Lecture 9: Memory and search methods](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-9-memory-and-search-methods/)
     - Watch: [6.0001 Lecture 12: Searching and sorting algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/)
+    - Optional:
+      - Gries, Campbell, and Montojo, ch. 13 (do exercises)
     - Do: 6.0001 Pset 5
 26. Take 6.0001 Final Quiz
 27. Hash tables
@@ -429,13 +441,18 @@ Get creative and have fun with it!
     - Optional:
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
+
+### Transition to data science and related topics
+
+- Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
+- Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
+- Read: [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/html/index.html) (entire book, with exercises)
+
 32. Optimization problems
     - Read: Guttag, ch. 12.1
     - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
     - Watch: [6.0002 Lecture 1: Introduction and Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
     - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
-    - Optional:
-      - Read: [How to Think like a Data Scientist](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
 33. Dynamic programming
     - Read: Guttag, ch. 13
     - Watch: [6.0002 Lecture 2: Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/)
@@ -518,9 +535,13 @@ Get creative and have fun with it!
     - Watch: [6.0002 Lecture 14: Classification and Statistical Sins](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/)
     - Watch: [6.00 Lecture 24: Avoiding Statistical Fallacies](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/)
     - Do: 6.00 final exam
-46. Wrap up
+46. Wrap up, applications, and I/O
     - Watch: [6.0002 Lecture 15: Statistical Sins and Wrap Up](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/)
     - Watch: [6.00 Lecture 26: What Do Computer Scientists Do?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
+    - Read: [Files](http://greenteapress.com/thinkpython2/html/thinkpython2015.html) (do exercises)
+    - Optional:
+      - Read: Gries, Campbell, and Montojo, ch. 10, 17 (do exercises)
+      - Read: Baka, ch. 13
 
 ### Final exam
 - Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 final exam and the 61A exams as appropriate.
