@@ -47,6 +47,7 @@ I'm also using these for supplementary readings and extra study:
 - [*Data Structures and Algorithms with Python*](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
 - [*Python Data Structures and Algorithms*](https://www.amazon.com/Python-Data-Structures-Algorithms-application-ebook/dp/B01IF7NLM8), by Benjamin Baka
 - [*Data Structures and Algorithms in Python*](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
+- [*Mastering Object-Oriented Python*](https://www.amazon.com/Mastering-Object-Oriented-Python-powerful-applications/dp/1789531365/ref=dp_ob_title_bk), by Steven F. Lott
 - [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html)
 - [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/)
 - [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/)
@@ -329,6 +330,7 @@ Get creative and have fun with it!
 21. Object-oriented programming
     - Read: Guttag, ch. 8.1
     - Read: DeNero, ch. 2.5.1 - 2.5.4
+    - Read: [Classes](https://python-textbok.readthedocs.io/en/1.0/Classes.html)
     - Watch: [6.0001 Lecture 8: Object-oriented programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/)
     - Watch: [CS 61A Lecture 15: Objects, videos 2 - 5](https://www.youtube.com/watch?v=A_EFoT4cBSk&list=PL6BsET-8jgYUIiXSvk-fKPZD13EyQOt0O&index=2)
     - Do: CS 61A Lab 06: Object Oriented Programming
@@ -341,6 +343,7 @@ Get creative and have fun with it!
 22. Object and class inheritance
     - Read: Guttag, ch. 8.2 - 8.4
     - Read: DeNero, ch. 2.5.5 - 2.5.8
+    - Read: [Object-oriented programming](https://python-textbok.readthedocs.io/en/1.0/Object_Oriented_Programming.html)
     - Watch: [6.00 Lecture 11: OOP and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/)
     - Watch: [6.0001 Lecture 9: Python classes and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/) (Skip section on quiz 1 answers)
     - Read: [Inheritance](http://greenteapress.com/thinkpython2/html/thinkpython2019.html) (do exercises)
@@ -354,6 +357,8 @@ Get creative and have fun with it!
     - Watch: [CS 61A Lecture 16: Inheritance, videos 2 - 8](https://www.youtube.com/watch?v=BCNE7M-SjWM&list=PL6BsET-8jgYUQ_XExDUYYQPd00ErJ6ELL&index=2)
     - Watch: [CS 61A Lecture 17: Representation, videos 2 - 4](https://www.youtube.com/watch?v=DUSSKCjzAgA&list=PL6BsET-8jgYWUwZ42xtrbX04mSx7GMHUo&index=2)
     - Do: Exam Questions on Object-Oriented Programming
+    - Optional:
+      - Read: Lott, *Mastering Object-Oriented Python* (entire book, with exercises)
 
 ### IV. Algorithms and more complex data structures
 
