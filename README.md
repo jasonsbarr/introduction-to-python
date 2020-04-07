@@ -49,8 +49,8 @@ I'm also using these for supplementary readings and extra study:
 - [*Data Structures and Algorithms in Python*](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
 - [*Mastering Object-Oriented Python*](https://www.amazon.com/Mastering-Object-Oriented-Python-powerful-applications/dp/1789531365/ref=dp_ob_title_bk), by Steven F. Lott
 - [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html)
-- [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/)
-- [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/)
+- [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/), by Allen Downey
+- [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/), by Allen Downey
 
 ### Practice problems
 
