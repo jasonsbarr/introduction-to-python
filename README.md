@@ -43,6 +43,7 @@ I'm also using these for supplementary readings and extra study:
 
 - [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
 - [*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science/dp/1680502689/ref=dp_ob_title_bk), by Paul Gries, Jennifer Campbell, and Jason Montojo
+- [*Functional Python Programming*](https://www.amazon.com/Functional-Python-Programming-programming-built/dp/1788627067/ref=dp_ob_title_bk)
 - [*Mastering Object-Oriented Python*](https://www.amazon.com/Mastering-Object-Oriented-Python-powerful-applications/dp/1789531365/ref=dp_ob_title_bk), by Steven F. Lott
 - [*Problem Solving with Algorithms and Data Structures using Python*](https://runestone.academy/runestone/books/published/pythonds/index.html), by Bradley Miller and David Ranum
 - [*Data Structures and Algorithms with Python*](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
@@ -257,6 +258,8 @@ Get creative and have fun with it!
     - Do: CS 61A Jennifer's Environment Diagram Cheat Sheet
     - Do: Work through CS 61A past mock exam for Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html) to ensure exam matches material we've covered)
     - Do: Work through at least 1 (and preferably more) CS 61A past Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html))
+    - Optional:
+      - *Functional Python Programming*, by Steve Lott (entire book)
 
 ### Exam 1
 
@@ -553,3 +556,7 @@ Get creative and have fun with it!
 - Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 final exam and the 61A exams as appropriate.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
+
+## Following up: Python applications
+
+As a follow-up to this course, it might be helpful to work on programming GUI and/or web apps in Python using TKinter, Flask, Django, or other libraries and frameworks.
