@@ -259,7 +259,7 @@ Get creative and have fun with it!
     - Do: Work through CS 61A past mock exam for Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html) to ensure exam matches material we've covered)
     - Do: Work through at least 1 (and preferably more) CS 61A past Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html))
     - Optional:
-      - *Functional Python Programming*, by Steve Lott (entire book)
+      - *Functional Python Programming*, by Steve Lott, ch. 1 - 7
 
 ### Exam 1
 
@@ -361,7 +361,7 @@ Get creative and have fun with it!
     - Watch: [CS 61A Lecture 17: Representation, videos 2 - 4](https://www.youtube.com/watch?v=DUSSKCjzAgA&list=PL6BsET-8jgYWUwZ42xtrbX04mSx7GMHUo&index=2)
     - Do: Exam Questions on Object-Oriented Programming
     - Optional:
-      - Read: Lott, *Mastering Object-Oriented Python*, pt. 1 (do exercises)
+      - Read: Lott, *Mastering Object-Oriented Python*, pt. 1
 
 ### IV. Algorithms and more complex data structures
 
@@ -550,7 +550,8 @@ Get creative and have fun with it!
     - Optional:
       - Read: Gries, Campbell, and Montojo, ch. 10, 17 (do exercises)
       - Read: Baka, ch. 13
-      - Lott, pts. 2 - 3 (do exercises)
+      - Lott, *FPP*, ch. 8 - 16
+      - Lott, *MOOP*, pts. 2 - 3 (do exercises)
 
 ### Final exam
 - Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 final exam and the 61A exams as appropriate.
