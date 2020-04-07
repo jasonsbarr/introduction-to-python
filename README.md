@@ -158,6 +158,9 @@ Get creative and have fun with it!
     - Do: CS 61A Disc. 00
 2. Basic control flow
     - Read: Guttag, ch. 2.2, 2.3.1, 2.4, and 3.2
+    - Read: [Conditionals](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip recursion, do exercises)
+    - Read: [Strings](http://greenteapress.com/thinkpython2/html/thinkpython2009.html) (do exercises)
+    - Read: [Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) (do exercises)
     - Watch: [6.0001 Lecture 2: Branching and iteration](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/)
     - Watch: [6.00 Lecture 2: Core elements of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
@@ -176,6 +179,8 @@ Get creative and have fun with it!
 5. Functions and scope
     - Read: Guttag, ch. 4.1, 4.4
     - Read: DeNero, ch. 1.3
+    - Read: [Functions](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) (do exercises)
+    - Read: [Fruitful functions](http://greenteapress.com/thinkpython2/html/thinkpython2007.html) (do exercises)
     - Watch: [CS 61A Lecture 2: Names](https://www.youtube.com/watch?v=hdVG0P11G94&list=PL6BsET-8jgYW16P20tNV8hwpBUiCyQB5c&vq=hd1080), videos 2 - 4
     - Watch: [CS 61A Lecture 3: Control](https://www.youtube.com/watch?v=WF7EypfJh4A&list=PL6BsET-8jgYUEhr4iByK789l8Jbx9UHjm&vq=hd1080), videos 2 - 3
     - Watch: [6.00 Lecture 4: Machine interpretation of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
@@ -219,6 +224,7 @@ Get creative and have fun with it!
 9. Recursion
     - Read: Guttag, ch. 4.3
     - Read: DeNero, ch. 1.7 (except 1.7.4 - 1.7.5)
+    - Read: [Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip conditionals, do exercises)
     - Watch: [CS 61A Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
     - Do: CS 61A HW 02
     - Do: CS 61A Rachel's Recursion Guide
@@ -229,8 +235,6 @@ Get creative and have fun with it!
       - Read: [Conditionals and recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html)
 10. Tree recursion
     - Read: DeNero, ch. 1.7.4 - 1.7.5
-    - Read: [How to Design Data Definitions](https://sites.google.com/site/ubccpsc189/how-to-design-data-definitions-htdd), adapted from [*How to Design Programs*](https://htdp.org)
-    - Read: [Template Rules](https://sites.google.com/site/ubccpsc189/template-rules), adapted from [*How to Design Programs*](https://htdp.org)
     - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A Lecture 8: Tree recursion](https://www.youtube.com/watch?v=bYJRqGRazS4&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&vq=hd1080), videos 2 - 5
     - Do: 6.00 Problem set 1, problems 1 - 3 (will do problem 4 later)
@@ -259,10 +263,9 @@ Get creative and have fun with it!
 
 12. An overview of Python containers
     - Read: Guttag, ch. 5
+    - Read: [How to Design Data Definitions](https://sites.google.com/site/ubccpsc189/how-to-design-data-definitions-htdd), adapted from [*How to Design Programs*](https://htdp.org)
+    - Read: [Template Rules](https://sites.google.com/site/ubccpsc189/template-rules), adapted from [*How to Design Programs*](https://htdp.org)
     - Watch: [6.00 Lecture 5: Objects in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-5-objects-in-python/)
-    - Read: [Lists](http://greenteapress.com/thinkpython2/html/thinkpython2011.html) (do exercises)
-    - Read: [Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html) (do exercises)
-    - Read: [Tuples](http://greenteapress.com/thinkpython2/html/thinkpython2013.html) (do exercises)
     - Optional:
       - Read: [More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
       - Read: [Tuples as Sequences](https://docs.python.org/3/tutorial/datastructures.html#tut-tuples)
@@ -271,11 +274,15 @@ Get creative and have fun with it!
 13. Tuples, lists, and mutability
     - Watch: [6.0001 Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
     - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
+    - Read: [Lists](http://greenteapress.com/thinkpython2/html/thinkpython2011.html) (do exercises)
+    - Read: [Tuples](http://greenteapress.com/thinkpython2/html/thinkpython2013.html) (do exercises)
 14. Dictionaries
     - Watch: [6.0001 Lecture 6: Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/)
+    - Read: [Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html) (do exercises)
     - Do: 6.00 Problem set 3, Part B
 15. A closer look at data abstraction
     - Read: DeNero, ch. 2.1 - 2.2
+    - Read: [Case study: data structure selection](http://greenteapress.com/thinkpython2/html/thinkpython2014.html) (do exercises)
     - Watch: [CS 61A Lecture 10: Data abstraction, videos 2 - 5](https://www.youtube.com/watch?v=nzP3nJ2np8w&list=PL6BsET-8jgYWHpu_eCvAHNuEWxVfgE3x8&index=2)
     - Do: [CS 61A HW 04](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw04/)
 16. Working with Python sequences
@@ -314,11 +321,12 @@ Get creative and have fun with it!
     - Read: DeNero, ch. 2.5.1 - 2.5.4
     - Watch: [6.0001 Lecture 8: Object-oriented programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/)
     - Watch: [CS 61A Lecture 15: Objects, videos 2 - 5](https://www.youtube.com/watch?v=A_EFoT4cBSk&list=PL6BsET-8jgYUIiXSvk-fKPZD13EyQOt0O&index=2)
-    - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
-    - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
-    - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
     - Do: CS 61A Lab 06: Object Oriented Programming
     - Do: CS 61A Disc 05: Object Oriented Programming
+    - Optional:
+      - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
+      - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
+      - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
 22. Object and class inheritance
     - Read: Guttag, ch. 8.2 - 8.4
     - Read: DeNero, ch. 2.5.5 - 2.5.8
