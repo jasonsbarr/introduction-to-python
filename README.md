@@ -232,6 +232,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 4.3
     - Read: DeNero, ch. 1.7 (except 1.7.4 - 1.7.5)
     - Read: [Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip conditionals, do exercises)
+    - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A (2018) Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
     - Do: CS 61A HW 02
     - Do: CS 61A Rachel's Recursion Guide
@@ -240,7 +241,6 @@ Get creative and have fun with it!
     - Do: CS 61A Disc. 02
 10. Tree recursion
     - Read: DeNero, ch. 1.7.4 - 1.7.5
-    - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A (2018) Lecture 8: Tree recursion](https://www.youtube.com/watch?v=bYJRqGRazS4&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&vq=hd1080), videos 2 - 5
     - Do: 6.00 Problem set 1, problems 1 - 3 (will do problem 4 later)
     - Do: CS 61A HW 03
