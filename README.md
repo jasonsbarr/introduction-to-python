@@ -305,7 +305,7 @@ Get creative and have fun with it!
     - Do: 61A Exam Questions on Python Lists
     - Do: CS 61A (Spring 2020) practice problems on data abstraction
     - Do: CS 61A (Spring 2020) past exam questions on data abstraction
-17. A deeper look at mutable vs. immutable data
+17. Mutable data and iterators
     - Read: DeNero, ch. 2.4
     - Watch: [CS 61A Lecture 13: Mutable values, videos 2 - 6](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2)
     - Watch: [CS 61A Lecture 14: Mutable functions, videos 2 - 5](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2)
