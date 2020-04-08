@@ -238,8 +238,6 @@ Get creative and have fun with it!
     - Do: CS 61A Aaron's Beginner-Friendly Guide to Recursion
     - Do: CS 61A Albert's Recursion Problems
     - Do: CS 61A Disc. 02
-    - Optional:
-      - Read: [Conditionals and recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html)
 10. Tree recursion
     - Read: DeNero, ch. 1.7.4 - 1.7.5
     - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
