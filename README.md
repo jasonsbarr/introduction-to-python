@@ -452,14 +452,6 @@ Get creative and have fun with it!
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
 
-### Transition to data science and related topics
-
-- Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
-- Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
-- Read: [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/html/index.html) (entire book, with exercises)
-- Read: [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/html/index.html) (entire book, with exercises)
-- Read: [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/html/index.html) (entire book, with exercises)
-
 32. Optimization problems
     - Read: Guttag, ch. 12.1
     - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
@@ -493,6 +485,14 @@ Get creative and have fun with it!
 - Set a 2 hour time block and get as far through one of CS 61A's past Midterm 2 exams as you can. Follow the restrictions in the course syllabus.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
+
+### Transition to data science and related topics
+
+- Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
+- Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
+- Read: [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/html/index.html) (entire book, with exercises)
+- Read: [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/html/index.html) (entire book, with exercises)
+- Read: [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/html/index.html) (entire book, with exercises)
 
 ### V. Using data to solve problems
 
