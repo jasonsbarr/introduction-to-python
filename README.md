@@ -379,6 +379,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 10.1 - 10.2
     - Read: [Sorting, searching, and algorithm analysis](https://python-textbok.readthedocs.io/en/1.0/Sorting_and_Searching_Algorithms.html) (don't worry about space complexity)
     - Read: [6. Sorting and Searching](https://runestone.academy/runestone/books/published/pythonds/SortSearch/toctree.html) (skip 6.5, do exercises)
+    - Read: [A Sort of All Sorting Algorithms](https://levelup.gitconnected.com/a-sort-of-all-sorting-algorithms-506cbc76d47)
     - Read and watch: [Search Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-4-probability-and-planning/search-algorithms/)
     - Read and watch: [Optimizing a Search](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-4-probability-and-planning/optimizing-a-search/)
     - Watch: [6.00 Lecture 9: Memory and search methods](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-9-memory-and-search-methods/)
