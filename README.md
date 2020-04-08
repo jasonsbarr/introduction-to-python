@@ -242,7 +242,7 @@ Get creative and have fun with it!
     - Do: CS 61A Disc. 02
 10. Tree recursion
     - Read: DeNero, ch. 1.7.4 - 1.7.5
-    - Watch: [CS 61A (2018) Lecture 8: Tree recursion](https://www.youtube.com/watch?v=bYJRqGRazS4&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&vq=hd1080), videos 2 - 5
+    - Watch: [CS 61A (2018) Lecture 8: Tree recursion](https://www.youtube.com/watch?v=VYYkJ1OLXBw&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&index=2), videos 2 - 5
     - Do: 6.00 Problem set 1, problems 1 - 3 (will do problem 4 later)
     - Do: CS 61A HW 03
     - Do: CS 61A HKN Spring 2018 Slides: Recursion
