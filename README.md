@@ -217,6 +217,7 @@ Get creative and have fun with it!
     - Do: CS 61A past exam questions on higher-order functions
     - Do: CS 61A past exam questions on Lambda expressions
     - Do: CS 61A Lab 02
+    - Do: CS 61A Guerrilla 00: Higher-Order Functions, Environment Diagrams, Control
 8. Abstraction, decomposition, and function design
     - Read: Guttag, ch. 4.5 - 4.6
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
@@ -248,6 +249,7 @@ Get creative and have fun with it!
     - Do: CS 61A Karina & Dennis' Trees + Recursion Slides
     - Do: CS 61A past exam questions on recursion
     - Do: CS 61A Lab 03
+    - Do: CS 61A Guerrilla 01: Python Lists, Recursion, Tree Recursion
     - Do: CS 61A CSM 00: Midterm 1 review
 11. Function examples and review
     - Watch: [CS 61A (2018) Lecture 9: Function examples](https://www.youtube.com/watch?v=mquGAH7Hm74&list=PL6BsET-8jgYVg0YNlIeajft-CawFSgHp9&vq=hd1080), videos 2 - 6
