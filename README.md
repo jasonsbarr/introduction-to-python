@@ -51,6 +51,8 @@ I'm also using these for supplementary readings and extra study, (some of which 
 - [*Data Structures and Algorithms in Python*](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
 - [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html)
 - [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/), by Allen Downey
+- [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/)
+- [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/)
 - [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/), by Allen Downey
 
 ### Practice problems
@@ -454,6 +456,8 @@ Get creative and have fun with it!
 
 - Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
 - Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
+- Read: [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/html/index.html) (entire book, with exercises)
+- Read: [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/html/index.html) (entire book, with exercises)
 - Read: [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/html/index.html) (entire book, with exercises)
 
 32. Optimization problems
