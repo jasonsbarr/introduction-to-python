@@ -301,12 +301,17 @@ Get creative and have fun with it!
     - Do: [CS 61A HW 04](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw04/)
 16. Working with Python sequences
     - Read: DeNero, ch. 2.3.1 - 2.3.5
+    - Read: [Python Basics: List Comprehensions](https://towardsdatascience.com/python-basics-list-comprehensions-631278f22c40)
+    - Read: [Comprehensions](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html)
+    - Read: [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+    - Read: [Comprehensions](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#comprehensions)
     - Watch: [CS 61A Lecture 11: Containers, videos 2 - 8](https://www.youtube.com/watch?v=-Q45UcQ2XJk&list=PL6BsET-8jgYUi0aglfZx9AWBgm_cDnLwx&index=2)
     - Do: 61A Exam Questions on Python Lists
     - Do: CS 61A (Spring 2020) practice problems on data abstraction
     - Do: CS 61A (Spring 2020) past exam questions on data abstraction
 17. Mutable data and iterators
     - Read: DeNero, ch. 2.4
+    - Read: [Iterables, iterators, and generators](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#iterables-iterators-and-generators)
     - Watch: [CS 61A Lecture 13: Mutable values, videos 2 - 6](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2)
     - Watch: [CS 61A Lecture 14: Mutable functions, videos 2 - 5](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2)
     - Watch: [CS 61A Lecture 16 (Spring 2020): Iterators, videos 2 - 7](https://www.youtube.com/watch?v=On-kFyFp8HY&list=PL6BsET-8jgYWPYsrAfTAN8rvBzk5cYfUZ&index=2)
