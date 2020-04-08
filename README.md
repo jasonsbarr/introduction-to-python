@@ -308,13 +308,14 @@ Get creative and have fun with it!
     - Do: 61A Exam Questions on Python Lists
     - Do: CS 61A (Spring 2020) practice problems on data abstraction
     - Do: CS 61A (Spring 2020) past exam questions on data abstraction
+    - Do: CS 61A CSM 01: Tree Recursion and Data Abstraction
 17. Mutable data
     - Read: DeNero, ch. 2.4
     - Watch: [CS 61A (2018) Lecture 13: Mutable values](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2), videos 2 - 6
     - Watch: [CS 61A (2018) Lecture 14: Mutable functions](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2), videos 2 - 5
     - Do: CS 61A Lab 04: Data Abstraction and Lists
-    - Do: CS 61A CSM 01: Tree Recursion and Data Abstraction
     - Do: CS 61A Disc 04: Nonlocals and Mutation
+    - Do: CS 61A CSM 03: Mutation and Nonlocal
 18. Iterators
     - Read: DeNero, ch. 4.2
     - Read: [Iterables, iterators, and generators](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#iterables-iterators-and-generators)
@@ -358,7 +359,6 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 11: OOP and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/)
     - Watch: [6.0001 Lecture 9: Python classes and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/) (Skip section on quiz 1 answers)
     - Do: [CS 61A HW 05](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw05/)
-    - Do: CS 61A CSM 03: Mutation and Nonlocal
     - Do: CS 61A Exam Prep 05: Nonlocal and Object-Oriented Programming
 23. Object design and representation
     - Read: DeNero, ch. 2.6 - 2.7
@@ -496,7 +496,7 @@ Get creative and have fun with it!
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
-### Transition to data science and related topics
+### Optional reading: Transition to data science and related topics
 
 - Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
 - Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
