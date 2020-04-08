@@ -220,10 +220,10 @@ Get creative and have fun with it!
 8. Abstraction, decomposition, and function design
     - Read: Guttag, ch. 4.5 - 4.6
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
-    - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=DDcYvnqUCNA&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
-    - Watch: [CS 61A (2018) Lecture 6: Iteration](https://www.youtube.com/watch?v=5VPY5ag-UDc&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=2), videos 2 - 5
+    - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=QIh6CyrWhvw&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
+    - Watch: [CS 61A (2018) Lecture 6: Iteration](https://www.youtube.com/watch?v=5VPY5ag-UDc&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=2), video 5
     - Do: CS 61A Hog project
-    - Watch: [CS 61A (2020) Lecture 7: Design](https://www.youtube.com/watch?v=bi_2gAetCiI&list=PL6BsET-8jgYVi-r2ys_l0i-lZFOE9k3TL&index=2), videos 2 - 3
+    - Watch: [CS 61A (2020) Lecture 7: Design](https://www.youtube.com/watch?v=TC_JcE42R2s&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=5), videos 2 - 3
     - Do: CS 61A Samantha's Environment Diagram with Lists and Nonlocal Slides
     - Do: CS 61A Mark's Environment Diagram Notes and Problems
     - Do: CS 61A Albert's Environment Diagram Problems
