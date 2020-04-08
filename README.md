@@ -43,7 +43,7 @@ I'm also using these for supplementary readings and extra study, some of which a
 
 - [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
 - [*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science/dp/1680502689/ref=dp_ob_title_bk), by Paul Gries, Jennifer Campbell, and Jason Montojo
-- [*Functional Python Programming*](https://www.amazon.com/Functional-Python-Programming-programming-built/dp/1788627067/ref=dp_ob_title_bk)
+- [*Functional Python Programming*](https://www.amazon.com/Functional-Python-Programming-programming-built/dp/1788627067/ref=dp_ob_title_bk), by Steven F. Lott
 - [*Mastering Object-Oriented Python*](https://www.amazon.com/Mastering-Object-Oriented-Python-powerful-applications/dp/1789531365/ref=dp_ob_title_bk), by Steven F. Lott
 - [*Problem Solving with Algorithms and Data Structures using Python*](https://runestone.academy/runestone/books/published/pythonds/index.html), by Bradley Miller and David Ranum
 - [*Data Structures and Algorithms with Python*](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
