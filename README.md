@@ -392,8 +392,7 @@ Get creative and have fun with it!
     - Optional:
       - Gries, Campbell, and Montojo, ch. 13 (do exercises)
     - Do: 6.0001 Pset 5
-26. Take 6.0001 Final Quiz
-27. Hash tables
+26. Hash tables
     - Read: Guttag, ch. 10.3 - 10.4
     - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
     - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
@@ -405,7 +404,7 @@ Get creative and have fun with it!
       - Read: Baka, *Python Data Structures and Algorithms*, ch. 7
       - Read: Lee and Hubbard, *Data Structures and Algorithms with Python*, ch. 5 (maps only)
       - Read: Goodrich, Tamassia, and Goldwasser, *Data Structures & Algorithms in Python*, ch. 10
-28. Trees
+27. Trees
     - Read: DeNero, ch. 2.3.6 - 2.3.7
     - Read: [Trees and Tree Algorithms](https://runestone.academy/runestone/books/published/pythonds/Trees/toctree.html) (do exercises)
     - Watch: [CS 61A (2018) Lecture 12: Trees](https://www.youtube.com/watch?v=c3xKjzbSxqg&list=PL6BsET-8jgYU_D4zfjxpO_ItfvMimn4Yv&index=2), videos 2 - 8
@@ -417,7 +416,7 @@ Get creative and have fun with it!
       - Read: Baka, ch. 6
       - Read: Lee and Hubbard, ch. 6
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 8
-29. Complexity and growth
+28. Complexity and growth
     - Read: DeNero, ch. 2.8
     - Read: [3. Analysis](https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/toctree.html) (do exercises)
     - Watch: [CS 61A (2020) Lecture 21: Efficiency](https://www.youtube.com/watch?v=DWhsOSHjY98&list=PL6BsET-8jgYXsQ35_ZS1e_tX5LZf5PPrS&index=2), videos 2 - 7
@@ -430,7 +429,7 @@ Get creative and have fun with it!
       - Read: Baka, ch. 4
       - Lee and Hubbard, ch. 2
       - Goodrich, Tamassia, and Goldwasser, ch. 3
-30. Object composition and recursive objects
+29. Object composition and recursive objects
     - Read: DeNero, ch. 2.9.1 - 2.9.2
     - Read: [Python Linked Lists](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
     - Read: [Linked lists, from data structures in practice](https://www.data-structures-in-practice.com/linked-lists/)
@@ -445,7 +444,7 @@ Get creative and have fun with it!
       - Read: Baka, ch. 4 - 5
       - Read: Lee and Hubbard, ch. 4
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 6 - 7
-31. Sets, tree sets, and binary search trees
+30. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
     - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
     - Read: [Set](https://docs.python.org/3.8/library/stdtypes.html#set)
@@ -463,18 +462,18 @@ Get creative and have fun with it!
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
 
-32. Optimization problems
+31. Optimization problems
     - Read: Guttag, ch. 12.1
     - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
     - Watch: [6.0002 Lecture 1: Introduction and Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
     - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
-33. Dynamic programming
+32. Dynamic programming
     - Read: Guttag, ch. 13
     - Watch: [6.0002 Lecture 2: Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/)
     - Watch: [6.00 Lecture 23: Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-23-dynamic-programming/)
     - Watch: [6.00 Recitation 10: Introduction to Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/#?w=535)
     - Do: 6.0002 PSet 1
-34. Graphs and graph problems
+33. Graphs and graph problems
     - Read: Guttag, ch. 12.1
     - Read: [8. Graphs and Graph Algorithms](https://runestone.academy/runestone/books/published/pythonds/Graphs/toctree.html)
     - Watch: [6.00 Lecture 21: Using Graphs to Model Problems, Part 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-21-using-graphs-to-model-problems-part-1/)
@@ -485,7 +484,7 @@ Get creative and have fun with it!
       - Baka, ch. 8
       - Lee and Hubbard, ch. 7
       - Goodrich, Tamassia, and Goldwasser, ch. 14
-35. Data examples and review
+34. Data examples and review
     - Watch: [CS 61A Lecture 22: Data examples, videos 2 - 7](https://www.youtube.com/watch?v=6qjhVNPwdUE&list=PL6BsET-8jgYWRTU90CoXS2iWz_USTRL0c&index=2)
     - Do: 6.0001 Quiz 1 and final exam practice problems
     - Do: Problems relevant to what we've covered from 6.00 and 6.0002 so far
@@ -493,7 +492,7 @@ Get creative and have fun with it!
 
 ### Exam 2 &ndash; CS 61A Midterm 2 and 6.00 Quiz 1
 
-- Set a 3 hour time block and get as far through one of CS 61A's past Midterm 2 exams and Quiz 1 from 6.00 as you can. Follow the restrictions in the course syllabus.
+- Set a 3 hour time block and get as far through one of CS 61A's past Midterm 2 exams, the 6.0001 final, and Quiz 1 from 6.00 as you can. Follow the restrictions in the course syllabus.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
