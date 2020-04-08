@@ -308,9 +308,8 @@ Get creative and have fun with it!
     - Do: 61A Exam Questions on Python Lists
     - Do: CS 61A (Spring 2020) practice problems on data abstraction
     - Do: CS 61A (Spring 2020) past exam questions on data abstraction
-17. Mutable data and iterators
+17. Mutable data
     - Read: DeNero, ch. 2.4
-    - Read: [Iterables, iterators, and generators](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#iterables-iterators-and-generators)
     - Watch: [CS 61A (2018) Lecture 13: Mutable values](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2), videos 2 - 6
     - Watch: [CS 61A (2018) Lecture 14: Mutable functions](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2), videos 2 - 5
     - Do: CS 61A Lab 04: Data Abstraction and Lists
@@ -318,6 +317,7 @@ Get creative and have fun with it!
     - Do: CS 61A Disc 04: Nonlocals and Mutation
 18. Iterators
     - Read: DeNero, ch. 4.2
+    - Read: [Iterables, iterators, and generators](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#iterables-iterators-and-generators)
     - Watch: [CS 61A (2020) Lecture 16: Iterators](https://www.youtube.com/watch?v=On-kFyFp8HY&list=PL6BsET-8jgYWPYsrAfTAN8rvBzk5cYfUZ&index=2), videos 2 - 7
     - Do: CS 61A Lab 06 (Spring 2020): Iterators and Generators
     - Do: CS 61A Disc 06 (Spring 2020): Iterators and Generators
