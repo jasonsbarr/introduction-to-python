@@ -573,6 +573,6 @@ Get creative and have fun with it!
 
 *Not part of either the MIT or Berkeley courses &ndash; I just thought a project would be a good way to provide a capstone experience for the course. After all, the point of programming is to **build things**, not just to do exercises and quizzes/exams.*
 
-Build a major, data-driven application with a web-based REST API and interactive GUI. GUI can be web-based or a desktop/mobile app (bonus points for both). Research and use good architectural practices and information security practices. The GUI should display and allow user interaction with the processed data set and its visualizations.
+Build a major, data-driven application with a web-based REST API and interactive GUI. GUI can be web-based or a desktop/mobile app (bonus points for both). Research and use good architectural practices, database design, and information security practices (including protection against database injection). The GUI should display and allow user interaction with the processed data set and its visualizations.
 
 Application should implement data structures and algorithms learned in this course, including at least one tree or graph structure, relevant machine learning and data science techniques, functional and object-oriented patterns, and file and/or database I/O.
