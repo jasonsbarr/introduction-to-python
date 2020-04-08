@@ -208,8 +208,8 @@ Get creative and have fun with it!
 7. Higher-order functions
     - Read: DeNero, ch. 1.6
     - Read: Guttag, ch. 5.4
-    - Watch: [CS 61A (2018) Lecture 4: Higher-order functions](https://www.youtube.com/watch?v=sLCc1QL2QmA&list=PL6BsET-8jgYVW_e0KbBrXbtyDMcTMtCWR&vq=hd1080), videos 2 - 6
-    - Watch: [CS 61A (2018) Lecture 5: Environments](https://www.youtube.com/watch?v=8X1UsTFbdiw&list=PL6BsET-8jgYV92mJGKvn8EFs3dKuDQ5h4&vq=hd1080), videos 2 - 6
+    - Watch: [CS 61A (2018) Lecture 4: Higher-order functions](https://www.youtube.com/watch?v=sLCc1QL2QmA&list=PL6BsET-8jgYVW_e0KbBrXbtyDMcTMtCWR&vq=hd1080&index=2), videos 2 - 6
+    - Watch: [CS 61A (2018) Lecture 5: Environments](https://www.youtube.com/watch?v=8X1UsTFbdiw&list=PL6BsET-8jgYV92mJGKvn8EFs3dKuDQ5h4&vq=hd1080&index=2), videos 2 - 6
     - Do: CS 61A Kevin's Environment Diagram Doc on Lambdas, HOFs, and Nonlocal
     - Do: CS 61A Albert's HOF Env Diagram Problems
     - Do: CS 61A Albert's Lambdas Problems
