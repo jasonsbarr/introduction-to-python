@@ -153,7 +153,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 1 - 2.1
     - Read: DeNero, ch. 1.1 - 1.2
     - Read: Jeannette M. Wing, ["Computational Thinking"](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
-    - Watch: 6.0001 [Lecture 1: What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
+    - Watch: [6.0001 Lecture 1: What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
     - Watch: [6.00 Lecture 1: Introduction to 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00)
     - Watch: [CS 61A Lecture 1: Functions](https://www.youtube.com/watch?v=v5CP0zpYUcw&list=PL6BsET-8jgYUV8Jxv0D7BLxbg-xIkh0vk&vq=hd1080), videos 2, 5, and 6
     - Do: Start HackerRank 30 Days of Code
