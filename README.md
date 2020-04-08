@@ -223,7 +223,7 @@ Get creative and have fun with it!
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
     - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=QIh6CyrWhvw&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
     - Watch: [CS 61A (2020) Lecture 7: Design](https://www.youtube.com/watch?v=TC_JcE42R2s&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=5), videos 2 - 3
-    - Do: CS 61A Hog project
+    - Do: CS 61A HW 02
     - Do: CS 61A Samantha's Environment Diagram with Lists and Nonlocal Slides
     - Do: CS 61A Mark's Environment Diagram Notes and Problems
     - Do: CS 61A Albert's Environment Diagram Problems
@@ -235,7 +235,7 @@ Get creative and have fun with it!
     - Read: [Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip conditionals, do exercises)
     - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A (2018) Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
-    - Do: CS 61A HW 02
+    - Do: CS 61A Hog project
     - Do: CS 61A Rachel's Recursion Guide
     - Do: CS 61A Aaron's Beginner-Friendly Guide to Recursion
     - Do: CS 61A Albert's Recursion Problems
@@ -264,7 +264,7 @@ Get creative and have fun with it!
 
 ### Exam 1
 
-- Set a 2 hour time block and get as far through one of CS 61A's past Midterm 1 exams as you can. Follow the restrictions in the course syllabus.
+- Set a 3 hour time block and get as far through one of CS 61A's past Midterm 1 exams and relevant questions from 6.0001 Quiz 1 as you can. Follow the restrictions in the course syllabus.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
@@ -337,8 +337,7 @@ Get creative and have fun with it!
     - Do: 6.0001 PSet 4, Parts A & C
     - Optional:
       - Read: Gries, Campbell, and Montojo, ch. 15 (do exercises)
-21. Quiz: Take 6.0001 quiz 1 (if such a thing can be found)
-22. Object-oriented programming
+21. Object-oriented programming
     - Read: Guttag, ch. 8.1
     - Read: DeNero, ch. 2.5.1 - 2.5.4
     - Read: [Classes](https://python-textbok.readthedocs.io/en/1.0/Classes.html)
@@ -351,7 +350,7 @@ Get creative and have fun with it!
     - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
     - Optional:
     - Gries, Campbell, and Montojo, ch. 14
-23. Object and class inheritance
+22. Object and class inheritance
     - Read: Guttag, ch. 8.2 - 8.4
     - Read: DeNero, ch. 2.5.5 - 2.5.8
     - Read: [Object-oriented programming](https://python-textbok.readthedocs.io/en/1.0/Object_Oriented_Programming.html)
@@ -361,7 +360,7 @@ Get creative and have fun with it!
     - Do: [CS 61A HW 05](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw05/)
     - Do: CS 61A CSM 03: Mutation and Nonlocal
     - Do: CS 61A Exam Prep 05: Nonlocal and Object-Oriented Programming
-24. Object design and representation
+23. Object design and representation
     - Read: DeNero, ch. 2.6 - 2.7
     - Read: [Class Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/class_design_recipe.pdf)
     - Watch: [6.00 Recitation 5: Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/#?w=535)
@@ -402,7 +401,6 @@ Get creative and have fun with it!
     - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
     - Read: [Hash tables, from data structures in practice](https://www.data-structures-in-practice.com/hash-tables/)
     - Watch: [6.00 Lecture 10: Hashing and classes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/)
-    - Do: [Hog contest](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/hog_contest)
     - Optional:
       - Read: Baka, *Python Data Structures and Algorithms*, ch. 7
       - Read: Lee and Hubbard, *Data Structures and Algorithms with Python*, ch. 5 (maps only)
@@ -489,13 +487,13 @@ Get creative and have fun with it!
       - Goodrich, Tamassia, and Goldwasser, ch. 14
 35. Data examples and review
     - Watch: [CS 61A Lecture 22: Data examples, videos 2 - 7](https://www.youtube.com/watch?v=6qjhVNPwdUE&list=PL6BsET-8jgYWRTU90CoXS2iWz_USTRL0c&index=2)
-    - Do: 6.0001 final exam practice problems
+    - Do: 6.0001 Quiz 1 and final exam practice problems
     - Do: Problems relevant to what we've covered from 6.00 and 6.0002 so far
     - Do: 6.0002 PSet 2 and 6.00 Problem set 11
 
 ### Exam 2 &ndash; CS 61A Midterm 2 and 6.00 Quiz 1
 
-- Set a 2 hour time block and get as far through one of CS 61A's past Midterm 2 exams as you can. Follow the restrictions in the course syllabus.
+- Set a 3 hour time block and get as far through one of CS 61A's past Midterm 2 exams and Quiz 1 from 6.00 as you can. Follow the restrictions in the course syllabus.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
@@ -531,6 +529,7 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 15: Statistical Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/)
     - Watch: [6.00 Recitation 6: Probability and Statistics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/#?w=535)
     - Do: 6.0002 PSet 4 and 6.00 Problem set 7
+    - Do: 6.00 Quiz 2 questions
 40. Using experimental data
     - Read: Guttag, ch. 18 - 20
     - Watch: [6.0002 Lecture 9: Understanding Experimental Data, pt. 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/)
@@ -538,29 +537,28 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 17: Curve Fitting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/)
     - Watch: [6.00 Recitation 7: Distributions, Monte Carlo, and Regressions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/#?w=535)
     - Do: 6.00 Problem set 8 (continuation of 6.0002 - PS 4/6.00 - PS 7)
-41. 6.00 Quiz 2
-42. Machine learning
+41. Machine learning
     - Read: Guttag, ch. 22
     - Watch: [6.0002 Lecture 11: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
     - Watch: [6.00 Lecture 25: Queuing Network Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
     - Do: 6.00 Problem Set 9
-43. Clustering
+42. Clustering
     - Read: Guttag, ch. 23
     - Watch: [6.0002 Lecture 12: Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/)
     - Watch: [6.00 Lecture 19: More Optimization and Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-19-more-optimization-and-clustering/)
     - Watch: [6.00 Lecture 20: More Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/)
     - Watch: [6.00 Recitation 8: Hierarchical and k-means Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/#?w=535)
     - Do 6.00 Problem set 10
-44. Classification
+43. Classification
     - Read: Guttag, ch. 24
     - Watch: [6.0002 Lecture 13: Classification](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/)
     - Do: 6.0002 PSet 5
-45. Statistical sins
+44. Statistical sins
     - Read: Guttag, ch. 21
     - Watch: [6.0002 Lecture 14: Classification and Statistical Sins](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/)
     - Watch: [6.00 Lecture 24: Avoiding Statistical Fallacies](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/)
     - Do: 6.00 final exam
-46. Wrap up, applications, and I/O
+45. Wrap up, applications, and I/O
     - Watch: [6.0002 Lecture 15: Statistical Sins and Wrap Up](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/)
     - Watch: [6.00 Lecture 26: What Do Computer Scientists Do?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
     - Read: [Files](http://greenteapress.com/thinkpython2/html/thinkpython2015.html) (do exercises)
@@ -572,7 +570,7 @@ Get creative and have fun with it!
 
 ### Final exam
 
-- Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 final exam and the 61A exams as appropriate.
+- Set a 3 hour time block and take the 6.0002 final exam, adding questions from the 6.00 quizzes and final exam and the 61A exams as appropriate.
 - Then grade yourself against the solutions using your own grading scale (but be honest about it&mdash;you're only cheating yourself if you fudge the results).
 - Repeat if needed until you can get most or all of the answers right.
 
