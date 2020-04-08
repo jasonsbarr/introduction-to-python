@@ -197,6 +197,10 @@ Get creative and have fun with it!
     - Do: CS 61A past exam questions on Control
 6. Designing your own functions
     - Read: Guttag, ch. 4.2
+    - Read: Downey, *Think Python, 2nd ed.*, ch. 4.8, "[A Development Plan](http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec49)"
+    - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
+    - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
+    - Optional read: *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
     - Watch: [6.00 Recitation 2: Loops, tuples, strings, and functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: CS 61A HW 01
     - Do: CS 61A Lab 01
@@ -215,10 +219,6 @@ Get creative and have fun with it!
     - Do: CS 61A Lab 02
 8. Abstraction, decomposition, and function design
     - Read: Guttag, ch. 4.5 - 4.6
-    - Read: Downey, *Think Python, 2nd ed.*, ch. 4.8, "[A Development Plan](http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec49)"
-    - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
-    - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
-    - Optional read: *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
     - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=DDcYvnqUCNA&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
     - Watch: [CS 61A (2018) Lecture 6: Iteration](https://www.youtube.com/watch?v=5VPY5ag-UDc&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=2), videos 2 - 5
@@ -450,6 +450,10 @@ Get creative and have fun with it!
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 6 - 7
 31. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
+    - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
+    - Read: [Set](https://docs.python.org/3.8/library/stdtypes.html#set)
+    - Read: [Sets in Python](https://www.geeksforgeeks.org/sets-in-python/)
+    - Read: [Sets in Python](https://realpython.com/python-sets/)
     - Watch: [CS 61A (2018) Lecture 20: Ordered sets, videos 2 - 6](https://www.youtube.com/watch?v=O-e3IMfNyhM&list=PL6BsET-8jgYXzWgS7H0xgwXoAfE_oc5Qb&index=2)
     - Watch: [CS 61A (2018) Lecture 21: Tree sets, videos 2 - 3, 5](https://www.youtube.com/watch?v=bb1H5Mf6o6g&list=PL6BsET-8jgYW4UWd5R37kQycegdTdIhsS&index=2)
     - Do: CS 61A Exam Prep 04: List Mutation, Dictionaries, & More Trees
