@@ -252,7 +252,7 @@ Get creative and have fun with it!
     - Do: CS 61A Guerrilla 01: Python Lists, Recursion, Tree Recursion
     - Do: CS 61A CSM 00: Midterm 1 review
 11. Function examples and review
-    - Watch: [CS 61A (2018) Lecture 9: Function examples](https://www.youtube.com/watch?v=mquGAH7Hm74&list=PL6BsET-8jgYVg0YNlIeajft-CawFSgHp9&vq=hd1080), videos 2 - 6
+    - Watch: [CS 61A (2018) Lecture 9: Function examples](https://www.youtube.com/watch?v=bi_2gAetCiI&list=PL6BsET-8jgYVg0YNlIeajft-CawFSgHp9&index=2), videos 2 - 6
     - Do: 6.0001 Pset 2 (covers problem 4 of 6.00 Problem set 1)
     - Do: CS 61A exam prep 02
     - Do: CS 61A Rachel's Environment Diagram Guide
