@@ -565,4 +565,4 @@ Get creative and have fun with it!
 
 Build a major, data-driven application with a web-based REST API and interactive GUI. GUI can be web-based or a desktop/mobile app (bonus points for both). Research and use good architectural practices and information security practices. The GUI should display and allow user interaction with the processed data set and its visualizations.
 
-Application should implement data structures learned in this course, relevant machine learning and data science techniques, functional and object-oriented patterns, and file and/or database I/O.
+Application should implement data structures and algorithms learned in this course, including at least one tree or graph structure, relevant machine learning and data science techniques, functional and object-oriented patterns, and file and/or database I/O.
