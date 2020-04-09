@@ -446,6 +446,9 @@ Get creative and have fun with it!
     - Read: [Python Linked Lists](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
     - Read: [Linked lists, from data structures in practice](https://www.data-structures-in-practice.com/linked-lists/)
     - Read: [Basic Data Structures](https://runestone.academy/runestone/books/published/pythonds/BasicDS/toctree.html) (do exercises)
+    - Read: [Set](https://docs.python.org/3.8/library/stdtypes.html#set)
+    - Read: [Sets in Python](https://www.geeksforgeeks.org/sets-in-python/)
+    - Read: [Sets in Python](https://realpython.com/python-sets/)
     - Watch: [CS 61A (2018) Lecture 19: Composition](https://www.youtube.com/watch?v=yC4WPw_6ehY&list=PL6BsET-8jgYWKyc-ouo_hTpzAWtwCPPxa&index=2), videos 2 - 5
     - Watch: [CS 61A (2020) Lecture 22: Decomposition](https://www.youtube.com/watch?v=i7GFWtHCuzo&list=PL6BsET-8jgYVbnKLlrqeACkH-EdpxgJyl&index=2), videos 2 - 7
     - Do: CS 61A Lab 07: Recursive Objects
@@ -461,9 +464,6 @@ Get creative and have fun with it!
 29. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
     - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
-    - Read: [Set](https://docs.python.org/3.8/library/stdtypes.html#set)
-    - Read: [Sets in Python](https://www.geeksforgeeks.org/sets-in-python/)
-    - Read: [Sets in Python](https://realpython.com/python-sets/)
     - Watch: [CS 61A (2018) Lecture 20: Ordered sets, videos 2 - 6](https://www.youtube.com/watch?v=O-e3IMfNyhM&list=PL6BsET-8jgYXzWgS7H0xgwXoAfE_oc5Qb&index=2)
     - Watch: [CS 61A (2018) Lecture 21: Tree sets, videos 2 - 3, 5](https://www.youtube.com/watch?v=bb1H5Mf6o6g&list=PL6BsET-8jgYW4UWd5R37kQycegdTdIhsS&index=2)
     - Do: CS 61A Exam Prep 04: List Mutation, Dictionaries, & More Trees
