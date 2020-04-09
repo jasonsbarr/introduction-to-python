@@ -457,6 +457,7 @@ Get creative and have fun with it!
       - Read: Lee and Hubbard, ch. 4
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 6 - 7
       - Read: Agarwal and Baka, ch. 4 - 5
+      - Reread optional tree chapters
 29. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
     - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
