@@ -196,29 +196,23 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2020) Lecture 3: Control](https://www.youtube.com/watch?v=jNYc5Gdwo3c&list=PL6BsET-8jgYVGcDzUC0htVQN7ln41WCOP&index=2), videos 2 - 6
     - Watch: [6.00 Lecture 4: Machine interpretation of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: 6.00 Problem set 1
-    - Do: CS 61A Albert's Control Structure Problems (on [Spring 2020 Resources page](https://cs61a.org/resources.html))
-    - Do: CS 61A past exam questions on Control
 6. Designing your own functions
     - Read: Guttag, ch. 4.2
     - Read: Downey, *Think Python, 2nd ed.*, ch. 4.8, "[A Development Plan](http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec49)"
     - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
     - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
-    - Optional read: *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
     - Watch: [6.00 Recitation 2: Loops, tuples, strings, and functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: CS 61A HW 01
     - Do: CS 61A Lab 01
     - Do: CS 61A Disc. 01
+    - Optional:
+      - Read: Gries, Campbell, and Montojo, *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
 7. Higher-order functions
     - Read: DeNero, ch. 1.6
     - Read: Guttag, ch. 5.4
     - Watch: [CS 61A (2018) Lecture 4: Higher-order functions](https://www.youtube.com/watch?v=sLCc1QL2QmA&list=PL6BsET-8jgYVW_e0KbBrXbtyDMcTMtCWR&vq=hd1080&index=2), videos 2 - 6
     - Watch: [CS 61A (2018) Lecture 5: Environments](https://www.youtube.com/watch?v=8X1UsTFbdiw&list=PL6BsET-8jgYV92mJGKvn8EFs3dKuDQ5h4&vq=hd1080&index=2), videos 2 - 6
-    - Do: CS 61A Kevin's Environment Diagram Doc on Lambdas, HOFs, and Nonlocal
-    - Do: CS 61A Albert's HOF Env Diagram Problems
-    - Do: CS 61A Albert's Lambdas Problems
     - Do: 6.0001 Pset 1
-    - Do: CS 61A past exam questions on higher-order functions
-    - Do: CS 61A past exam questions on Lambda expressions
     - Do: CS 61A Lab 02
     - Do: CS 61A Guerrilla 00: Higher-Order Functions, Environment Diagrams, Control
 8. Abstraction, decomposition, and function design
@@ -227,10 +221,6 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=QIh6CyrWhvw&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
     - Watch: [CS 61A (2020) Lecture 7: Design](https://www.youtube.com/watch?v=TC_JcE42R2s&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=5), videos 2 - 3
     - Do: CS 61A HW 02
-    - Do: CS 61A Samantha's Environment Diagram with Lists and Nonlocal Slides
-    - Do: CS 61A Mark's Environment Diagram Notes and Problems
-    - Do: CS 61A Albert's Environment Diagram Problems
-    - Do: CS 61A past exam questions on environment diagrams
     - Do: CS 61A exam prep 01
 9. Recursion
     - Read: Guttag, ch. 4.3
@@ -239,18 +229,12 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A (2018) Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
     - Do: CS 61A Hog project
-    - Do: CS 61A Rachel's Recursion Guide
-    - Do: CS 61A Aaron's Beginner-Friendly Guide to Recursion
-    - Do: CS 61A Albert's Recursion Problems
     - Do: CS 61A Disc. 02
 10. Tree recursion
     - Read: DeNero, ch. 1.7.4 - 1.7.5
     - Watch: [CS 61A (2018) Lecture 8: Tree recursion](https://www.youtube.com/watch?v=VYYkJ1OLXBw&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&index=2), videos 2 - 5
     - Do: 6.00 Problem set 1, problems 1 - 3 (will do problem 4 later)
     - Do: CS 61A HW 03
-    - Do: CS 61A HKN Spring 2018 Slides: Recursion
-    - Do: CS 61A Karina & Dennis' Trees + Recursion Slides
-    - Do: CS 61A past exam questions on recursion
     - Do: CS 61A Lab 03
     - Do: CS 61A Guerrilla 01: Python Lists, Recursion, Tree Recursion
     - Do: CS 61A CSM 00: Midterm 1 review
@@ -258,8 +242,6 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2018) Lecture 9: Function examples](https://www.youtube.com/watch?v=bi_2gAetCiI&list=PL6BsET-8jgYVg0YNlIeajft-CawFSgHp9&index=2), videos 2 - 6
     - Do: 6.0001 Pset 2 (covers problem 4 of 6.00 Problem set 1)
     - Do: CS 61A exam prep 02
-    - Do: CS 61A Rachel's Environment Diagram Guide
-    - Do: CS 61A Jennifer's Environment Diagram Cheat Sheet
     - Do: Work through CS 61A past mock exam for Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html) to ensure exam matches material we've covered)
     - Do: Work through at least 1 (and preferably more) CS 61A past Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html))
     - Optional:
@@ -291,7 +273,7 @@ Get creative and have fun with it!
     - Watch: [6.0001 Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
     - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Optional:
-      - Gries, Campbell, and Montojo, *Practical Programming*, ch. 8 (do exercises)
+      - Gries, Campbell, and Montojo, ch. 8 (do exercises)
 14. Dictionaries
     - Read: [Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html) (do exercises)
     - Watch: [6.0001 Lecture 6: Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/)
@@ -311,9 +293,6 @@ Get creative and have fun with it!
     - Read: [Comprehensions](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#comprehensions)
     - Read: Pilgrim, [ch. 3, "Comprehensions"](https://diveintopython3.problemsolving.io/comprehensions.html) and [ch. 4, "Strings"](https://diveintopython3.problemsolving.io/strings.html)
     - Watch: [CS 61A (2018) Lecture 11: Containers](https://www.youtube.com/watch?v=-Q45UcQ2XJk&list=PL6BsET-8jgYUi0aglfZx9AWBgm_cDnLwx&index=2), videos 2 - 8
-    - Do: 61A Exam Questions on Python Lists
-    - Do: CS 61A (Spring 2020) practice problems on data abstraction
-    - Do: CS 61A (Spring 2020) past exam questions on data abstraction
     - Do: CS 61A CSM 01: Tree Recursion and Data Abstraction
 17. Mutable data
     - Read: DeNero, ch. 2.4
@@ -329,8 +308,6 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2020) Lecture 16: Iterators](https://www.youtube.com/watch?v=On-kFyFp8HY&list=PL6BsET-8jgYWPYsrAfTAN8rvBzk5cYfUZ&index=2), videos 2 - 7
     - Do: CS 61A Lab 06 (Spring 2020): Iterators and Generators
     - Do: CS 61A Disc 06 (Spring 2020): Iterators and Generators
-    - Do: CS 61A (Spring 2020) practice problems on iterators & generators
-    - Do: CS 61A (Spring 2020) past exam questions on iterators & generators
 19. Debugging
     - Read: Guttag, ch. 6
     - Watch: [6.00 Lecture 7: Debugging](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-7-debugging/)
@@ -353,11 +330,11 @@ Get creative and have fun with it!
     - Read: Pilgrim, [ch. 7, "Classes & Iterators](https://diveintopython3.problemsolving.io/iterators.html)
     - Watch: [6.0001 Lecture 8: Object-oriented programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/)
     - Watch: [CS 61A (2020) Lecture 15: Objects](https://www.youtube.com/watch?v=A_EFoT4cBSk&list=PL6BsET-8jgYW69CWQf-F83Oylo87fJYQR&index=2), videos 2 - 6
-    - Do: CS 61A Lab 06: Object Oriented Programming
-    - Do: CS 61A Disc 05: Object Oriented Programming
     - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
     - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
     - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
+    - Do: CS 61A Lab 06: Object Oriented Programming
+    - Do: CS 61A Disc 05: Object Oriented Programming
     - Optional:
     - Gries, Campbell, and Montojo, ch. 14
 22. Object and class inheritance
@@ -376,7 +353,6 @@ Get creative and have fun with it!
     - Watch: [6.00 Recitation 5: Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/#?w=535)
     - Watch: [CS 61A (2020) Lecture 18: Inheritance](https://www.youtube.com/watch?v=BCNE7M-SjWM&list=PL6BsET-8jgYWGeaft0y0Nc0rSexHBxbVV&index=2), videos 2 - 8
     - Watch: [CS 61A (2018) Lecture 17: Representation, videos 2 - 4](https://www.youtube.com/watch?v=DUSSKCjzAgA&list=PL6BsET-8jgYWUwZ42xtrbX04mSx7GMHUo&index=2)
-    - Do: Exam Questions on Object-Oriented Programming
     - Optional:
       - Read: Lott, *Mastering Object-Oriented Python*, pt. 1
 
@@ -409,10 +385,10 @@ Get creative and have fun with it!
     - Read and watch: [Optimizing a Search](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-4-probability-and-planning/optimizing-a-search/)
     - Watch: [6.00 Lecture 9: Memory and search methods](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-9-memory-and-search-methods/)
     - Watch: [6.0001 Lecture 12: Searching and sorting algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/)
+    - Do: 6.0001 Pset 5
     - Optional:
       - Read: Gries, Campbell, and Montojo, ch. 13 (do exercises)
       - Read: Agarwal and Baka, ch. 9 - 10
-    - Do: 6.0001 Pset 5
 26. Trees
     - Read: DeNero, ch. 2.3.6 - 2.3.7
     - Read: [Trees and Tree Algorithms](https://runestone.academy/runestone/books/published/pythonds/Trees/toctree.html) (do exercises)
@@ -422,8 +398,6 @@ Get creative and have fun with it!
     - Do: CS 61A CSM 02: Lists and Trees
     - Do: CS 61A Guerrilla 02 (Spring 2020): Data Abstraction, Trees, Nonlocal, Iterators & Generators
     - Do: CS 61A Exam Prep 03: Lists, Trees, & Tree Recursion
-    - Do: CS 61A (Spring 2020) practice problems on trees
-    - Do: CS 61A (Spring 2020) past exam questions on trees
     - Optional:
       - Read: Baka, ch. 6
       - Read: Lee and Hubbard, ch. 6
@@ -470,8 +444,6 @@ Get creative and have fun with it!
     - Do: [CS 61A HW 06](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw06/)
     - Do: CS 61A Lab 08: Midterm Review
     - Do: CS 61A CSM 05: Linked Lists and Midterm Review
-    - Do: CS 61A (Spring 2020) practice problems on linked lists
-    - Do: CS 61A (Spring 2020) past exam questions on linked lists
     - Optional:
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
@@ -501,8 +473,7 @@ Get creative and have fun with it!
     - Watch: [6.00 Recitation 10: Introduction to Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/#?w=535)
 33. Data examples and review
     - Watch: [CS 61A Lecture 22: Data examples, videos 2 - 7](https://www.youtube.com/watch?v=6qjhVNPwdUE&list=PL6BsET-8jgYWRTU90CoXS2iWz_USTRL0c&index=2)
-    - Do: 6.0001 Quiz 1 and final exam practice problems
-    - Do: Problems relevant to what we've covered from 6.00 and 6.0002 so far
+    - Do: 6.0001 Quiz 1 and final exam as practice problems
     - Do: 6.0002 PSet 2 and 6.00 Problem set 11
 
 ### Exam 2 &ndash; CS 61A Midterm 2 and 6.00 Quiz 1
