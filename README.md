@@ -413,20 +413,7 @@ Get creative and have fun with it!
       - Read: Gries, Campbell, and Montojo, ch. 13 (do exercises)
       - Read: Agarwal and Baka, ch. 9 - 10
     - Do: 6.0001 Pset 5
-26. Hash tables
-    - Read: Guttag, ch. 10.3 - 10.4
-    - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
-    - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
-    - Read: [Python hashing tutorial](http://zetcode.com/python/hashing/)
-    - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
-    - Read: [Hash tables, from data structures in practice](https://www.data-structures-in-practice.com/hash-tables/)
-    - Watch: [6.00 Lecture 10: Hashing and classes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/)
-    - Optional:
-      - Read: Baka, ch. 7
-      - Read: Lee and Hubbard, ch. 5 (maps only)
-      - Read: Goodrich, Tamassia, and Goldwasser, ch. 10
-      - Read: Agarwal and Baka, ch. 7
-27. Trees
+26. Trees
     - Read: DeNero, ch. 2.3.6 - 2.3.7
     - Read: [Trees and Tree Algorithms](https://runestone.academy/runestone/books/published/pythonds/Trees/toctree.html) (do exercises)
     - Watch: [CS 61A (2018) Lecture 12: Trees](https://www.youtube.com/watch?v=c3xKjzbSxqg&list=PL6BsET-8jgYU_D4zfjxpO_ItfvMimn4Yv&index=2), videos 2 - 8
@@ -441,7 +428,7 @@ Get creative and have fun with it!
       - Read: Baka, ch. 6
       - Read: Lee and Hubbard, ch. 6
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 8
-28. Object composition and recursive objects
+27. Object composition and recursive objects
     - Read: DeNero, ch. 2.9.1 - 2.9.2
     - Read: [Python Linked Lists](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
     - Read: [Linked lists, from data structures in practice](https://www.data-structures-in-practice.com/linked-lists/)
@@ -461,7 +448,7 @@ Get creative and have fun with it!
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 6 - 7
       - Read: Agarwal and Baka, ch. 4 - 5
       - Reread optional tree chapters
-29. Sets, tree sets, and binary search trees
+28. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
     - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
     - Watch: [CS 61A (2018) Lecture 20: Ordered sets, videos 2 - 6](https://www.youtube.com/watch?v=O-e3IMfNyhM&list=PL6BsET-8jgYXzWgS7H0xgwXoAfE_oc5Qb&index=2)
@@ -476,7 +463,19 @@ Get creative and have fun with it!
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
       - Read: Agarwal and Baka, ch. 6
-
+29. Hash tables
+    - Read: Guttag, ch. 10.3 - 10.4
+    - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
+    - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
+    - Read: [Python hashing tutorial](http://zetcode.com/python/hashing/)
+    - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
+    - Read: [Hash tables, from data structures in practice](https://www.data-structures-in-practice.com/hash-tables/)
+    - Watch: [6.00 Lecture 10: Hashing and classes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/)
+    - Optional:
+      - Read: Baka, ch. 7
+      - Read: Lee and Hubbard, ch. 5 (maps only)
+      - Read: Goodrich, Tamassia, and Goldwasser, ch. 10
+      - Read: Agarwal and Baka, ch. 7
 30. Optimization problems
     - Read: Guttag, ch. 12.1
     - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
