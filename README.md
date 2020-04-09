@@ -513,8 +513,8 @@ Get creative and have fun with it!
 
 ### Optional reading: Transition to data science and related topics
 
-- Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
 - Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
+- Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
 - Read: [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/html/index.html) (entire book, with exercises)
 - Read: [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/html/index.html) (entire book, with exercises)
 - Read: [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/html/index.html) (entire book, with exercises)
