@@ -42,6 +42,7 @@ You *definitely* want to make sure to do the readings from it, as it covers mate
 I'm also using these for supplementary readings and extra study, some of which are freely available online:
 
 - [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
+- [*Dive Into Python 3*](https://diveintopython3.problemsolving.io/), by Mark Pilgrim
 - [*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science/dp/1680502689/ref=dp_ob_title_bk), by Paul Gries, Jennifer Campbell, and Jason Montojo
 - [*Functional Python Programming*](https://www.amazon.com/Functional-Python-Programming-programming-built/dp/1788627067/ref=dp_ob_title_bk), by Steven F. Lott
 - [*Mastering Object-Oriented Python*](https://www.amazon.com/Mastering-Object-Oriented-Python-powerful-applications/dp/1789531365/ref=dp_ob_title_bk), by Steven F. Lott
@@ -155,6 +156,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 1 - 2.1
     - Read: DeNero, ch. 1.1 - 1.2
     - Read: Jeannette M. Wing, ["Computational Thinking"](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
+    - Read: Pilgrim, *Dive Into Python*, [ch. 2.1 - 2.3](https://diveintopython3.problemsolving.io/native-datatypes.html)
     - Watch: [6.0001 Lecture 1: What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
     - Watch: [6.00 Lecture 1: Introduction to 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00)
     - Watch: [CS 61A (2020) Lecture 1: Functions](https://www.youtube.com/watch?v=CK4xrHi-IrQ&list=PL6BsET-8jgYVkdaPYJNyvuNga3QA_U1gA&index=4), videos 4, 7, and 8
@@ -274,6 +276,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 5
     - Read: [How to Design Data Definitions](https://sites.google.com/site/ubccpsc189/how-to-design-data-definitions-htdd), adapted from [*How to Design Programs*](https://htdp.org)
     - Read: [Template Rules](https://sites.google.com/site/ubccpsc189/template-rules), adapted from [*How to Design Programs*](https://htdp.org)
+    - Read: Pilgrim, [ch. 2.4 - 2.8](https://diveintopython3.problemsolving.io/native-datatypes.html)
     - Watch: [6.00 Lecture 5: Objects in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-5-objects-in-python/)
     - Optional:
       - Read: [More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
@@ -304,6 +307,7 @@ Get creative and have fun with it!
     - Read: [Comprehensions](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html)
     - Read: [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
     - Read: [Comprehensions](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#comprehensions)
+    - Read: Pilgrim, [ch. 3, "Comprehensions"](https://diveintopython3.problemsolving.io/comprehensions.html) - [ch. 4, "Strings"](https://diveintopython3.problemsolving.io/strings.html)
     - Watch: [CS 61A (2018) Lecture 11: Containers](https://www.youtube.com/watch?v=-Q45UcQ2XJk&list=PL6BsET-8jgYUi0aglfZx9AWBgm_cDnLwx&index=2), videos 2 - 8
     - Do: 61A Exam Questions on Python Lists
     - Do: CS 61A (Spring 2020) practice problems on data abstraction
@@ -319,6 +323,7 @@ Get creative and have fun with it!
 18. Iterators
     - Read: DeNero, ch. 4.2
     - Read: [Iterables, iterators, and generators](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#iterables-iterators-and-generators)
+    - Read: Pilgrim, [ch. 6, "Closures & Generators"](https://diveintopython3.problemsolving.io/generators.html)
     - Watch: [CS 61A (2020) Lecture 16: Iterators](https://www.youtube.com/watch?v=On-kFyFp8HY&list=PL6BsET-8jgYWPYsrAfTAN8rvBzk5cYfUZ&index=2), videos 2 - 7
     - Do: CS 61A Lab 06 (Spring 2020): Iterators and Generators
     - Do: CS 61A Disc 06 (Spring 2020): Iterators and Generators
@@ -332,6 +337,7 @@ Get creative and have fun with it!
     - Optional:
       - Read: [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
       - Read: [Appendix A: Debugging](http://greenteapress.com/thinkpython2/html/thinkpython2021.html)
+      - Read: Pilgrim, [ch. 9, "Unit Testing"](https://diveintopython3.problemsolving.io/unit-testing.html)
 20. Testing and assertions
     - Read: Guttag, ch. 7
     - Watch: [6.0001 Lecture 7: Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-7-testing-debugging-exceptions-and-assertions/)
@@ -342,6 +348,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 8.1
     - Read: DeNero, ch. 2.5.1 - 2.5.4
     - Read: [Classes](https://python-textbok.readthedocs.io/en/1.0/Classes.html)
+    - Read: Pilgrim, [ch. 7, "Classes & Iterators](https://diveintopython3.problemsolving.io/iterators.html)
     - Watch: [6.0001 Lecture 8: Object-oriented programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/)
     - Watch: [CS 61A (2020) Lecture 15: Objects](https://www.youtube.com/watch?v=A_EFoT4cBSk&list=PL6BsET-8jgYW69CWQf-F83Oylo87fJYQR&index=2), videos 2 - 6
     - Do: CS 61A Lab 06: Object Oriented Programming
@@ -363,6 +370,7 @@ Get creative and have fun with it!
 23. Object design and representation
     - Read: DeNero, ch. 2.6 - 2.7
     - Read: [Class Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/class_design_recipe.pdf)
+    - Read: Pilgrim, [Appendix B, "Special Method Names"](https://diveintopython3.problemsolving.io/special-method-names.html)
     - Watch: [6.00 Recitation 5: Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/#?w=535)
     - Watch: [CS 61A (2020) Lecture 18: Inheritance](https://www.youtube.com/watch?v=BCNE7M-SjWM&list=PL6BsET-8jgYWGeaft0y0Nc0rSexHBxbVV&index=2), videos 2 - 8
     - Watch: [CS 61A (2018) Lecture 17: Representation, videos 2 - 4](https://www.youtube.com/watch?v=DUSSKCjzAgA&list=PL6BsET-8jgYWUwZ42xtrbX04mSx7GMHUo&index=2)
@@ -564,6 +572,7 @@ Get creative and have fun with it!
     - Optional:
       - Read: Gries, Campbell, and Montojo, ch. 10, 17 (do exercises)
       - Read: Baka, ch. 13
+      - Read: Pilgrim, [ch. 8, "Advanced Iterators](https://diveintopython3.problemsolving.io/advanced-iterators.html), [ch. 9, "Refactoring"](https://diveintopython3.problemsolving.io/refactoring.html), [ch. 10, "Files"](https://diveintopython3.problemsolving.io/files.html), [ch. 14, "HTTP Web Services"](https://diveintopython3.problemsolving.io/http-web-services.html), and [ch. 16, "Packaging Python Libraries"](https://diveintopython3.problemsolving.io/packaging.html)
       - Lott, *FPP*, ch. 8 - 16
       - Lott, *MOOP*, pts. 2 - 3 (do exercises)
 
