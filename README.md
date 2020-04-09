@@ -486,10 +486,10 @@ Get creative and have fun with it!
 31. Graphs and graph problems
     - Read: Guttag, ch. 12.1
     - Read: [8. Graphs and Graph Algorithms](https://runestone.academy/runestone/books/published/pythonds/Graphs/toctree.html)
+    - Watch: [6.0002 Lecture 3: Graph-theoretic Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/)
     - Watch: [6.00 Lecture 21: Using Graphs to Model Problems, Part 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-21-using-graphs-to-model-problems-part-1/)
     - Watch: [6.00 Lecture 22: Using Graphs to Model Problems, Part 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-22-using-graphs-to-model-problems-part-2/)
     - Watch: [6.00 Recitation 9: Directed and Undirected Node Graphs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-22-using-graphs-to-model-problems-part-2/#?w=535)
-    - Watch: [6.0002 Lecture 3: Graph-theoretic Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/)
     - Optional:
       - Baka, ch. 8
       - Lee and Hubbard, ch. 7 - 8
