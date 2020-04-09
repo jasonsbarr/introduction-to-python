@@ -505,7 +505,6 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 15 - 16
     - Watch: [6.00 Lecture 14: Sampling and Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-14-sampling-and-monte-carlo-simulation/)
     - Watch: [6.0002 Lecture 6: Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/)
-    - Watch: [6.00 Lecture 16: Using Randomness to Solve Non-random Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/)
     - Do: 6.0002 PSet 3 and 6.00 Problem set 6
 37. Statistical thinking
     - Read: Guttag, ch. 17
@@ -513,6 +512,7 @@ Get creative and have fun with it!
     - Watch: [6.0002 Lecture 8: Sampling and Standard Error](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/)
     - Watch: [6.00 Lecture 15: Statistical Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/)
     - Watch: [6.00 Recitation 6: Probability and Statistics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/#?w=535)
+    - Watch: [6.00 Lecture 16: Using Randomness to Solve Non-random Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/)
     - Do: 6.0002 PSet 4 and 6.00 Problem set 7
     - Do: 6.00 Quiz 2 questions
 38. Using experimental data
