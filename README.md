@@ -448,6 +448,19 @@ Get creative and have fun with it!
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 6 - 7
       - Read: Agarwal and Baka, ch. 4 - 5
       - Reread optional tree chapters
+29. Hash tables
+    - Read: Guttag, ch. 10.3 - 10.4
+    - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
+    - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
+    - Read: [Python hashing tutorial](http://zetcode.com/python/hashing/)
+    - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
+    - Read: [Hash tables, from data structures in practice](https://www.data-structures-in-practice.com/hash-tables/)
+    - Watch: [6.00 Lecture 10: Hashing and classes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/)
+    - Optional:
+      - Read: Baka, ch. 7
+      - Read: Lee and Hubbard, ch. 5 (maps only)
+      - Read: Goodrich, Tamassia, and Goldwasser, ch. 10
+      - Read: Agarwal and Baka, ch. 7
 28. Sets, tree sets, and binary search trees
     - Read: DeNero, ch. 2.9.3
     - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
@@ -463,31 +476,14 @@ Get creative and have fun with it!
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
       - Read: Agarwal and Baka, ch. 6
-29. Hash tables
-    - Read: Guttag, ch. 10.3 - 10.4
-    - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
-    - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
-    - Read: [Python hashing tutorial](http://zetcode.com/python/hashing/)
-    - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
-    - Read: [Hash tables, from data structures in practice](https://www.data-structures-in-practice.com/hash-tables/)
-    - Watch: [6.00 Lecture 10: Hashing and classes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/)
-    - Optional:
-      - Read: Baka, ch. 7
-      - Read: Lee and Hubbard, ch. 5 (maps only)
-      - Read: Goodrich, Tamassia, and Goldwasser, ch. 10
-      - Read: Agarwal and Baka, ch. 7
 30. Optimization problems
     - Read: Guttag, ch. 12.1
     - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
     - Watch: [6.0002 Lecture 1: Introduction and Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
-    - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
-31. Dynamic programming
-    - Read: Guttag, ch. 13
     - Watch: [6.0002 Lecture 2: Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/)
-    - Watch: [6.00 Lecture 23: Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-23-dynamic-programming/)
-    - Watch: [6.00 Recitation 10: Introduction to Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/#?w=535)
+    - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
     - Do: 6.0002 PSet 1
-32. Graphs and graph problems
+31. Graphs and graph problems
     - Read: Guttag, ch. 12.1
     - Read: [8. Graphs and Graph Algorithms](https://runestone.academy/runestone/books/published/pythonds/Graphs/toctree.html)
     - Watch: [6.00 Lecture 21: Using Graphs to Model Problems, Part 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-21-using-graphs-to-model-problems-part-1/)
@@ -496,9 +492,13 @@ Get creative and have fun with it!
     - Watch: [6.0002 Lecture 3: Graph-theoretic Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/)
     - Optional:
       - Baka, ch. 8
-      - Lee and Hubbard, ch. 7
+      - Lee and Hubbard, ch. 7 - 8
       - Goodrich, Tamassia, and Goldwasser, ch. 14
       - Read: Agarwal and Baka, ch. 8
+32. Dynamic programming
+    - Read: Guttag, ch. 13
+    - Watch: [6.00 Lecture 23: Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-23-dynamic-programming/)
+    - Watch: [6.00 Recitation 10: Introduction to Dynamic Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/#?w=535)
 33. Data examples and review
     - Watch: [CS 61A Lecture 22: Data examples, videos 2 - 7](https://www.youtube.com/watch?v=6qjhVNPwdUE&list=PL6BsET-8jgYWRTU90CoXS2iWz_USTRL0c&index=2)
     - Do: 6.0001 Quiz 1 and final exam practice problems
