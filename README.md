@@ -450,7 +450,6 @@ Get creative and have fun with it!
       - Read: Agarwal and Baka, ch. 6
 30. Optimization problems
     - Read: Guttag, ch. 12.1
-    - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
     - Watch: [6.0002 Lecture 1: Introduction and Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/)
     - Watch: [6.0002 Lecture 2: Optimization Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/)
     - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
@@ -501,51 +500,53 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 12: Introduction to Simulation and Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-12-introduction-to-simulation-and-random-walks/)
     - Watch: [6.0002 Lecture 5: Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/)
     - Watch: [6.00 Lecture 13: Some Basic Probability and Plotting Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-13-some-basic-probability-and-plotting-data/)
-36. Taking Monty Hall to Monte Carlo: Randomness and non-random problems
+36. Monte Carlo simulations
     - Read: Guttag, ch. 15 - 16
     - Watch: [6.0002 Lecture 6: Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/)
     - Watch: [6.00 Lecture 14: Sampling and Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-14-sampling-and-monte-carlo-simulation/)
-    - Watch: [6.00 Lecture 15: Statistical Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/)
-    - Watch: [6.00 Lecture 16: Using Randomness to Solve Non-random Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/)
     - Do: 6.0002 PSet 3 and 6.00 Problem set 6
-37. Statistics, confidence, and sampling
+37. Statistics, probability, and confidence
     - Read: Guttag, ch. 17
-    - Watch: [6.0002 Lecture 7: Confidence Intervals](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/)
-    - Watch: [6.0002 Lecture 8: Sampling and Standard Error](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/)
+    - Watch: [6.00 Lecture 15: Statistical Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/)
     - Watch: [6.00 Recitation 6: Probability and Statistics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/#?w=535)
+    - Watch: [6.00 Lecture 16: Using Randomness to Solve Non-random Problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/)
     - Do: 6.0002 PSet 4 and 6.00 Problem set 7
     - Do: 6.00 Quiz 2 questions
-38. Using experimental data
+38. Sampling and confidence
     - Read: Guttag, ch. 18 - 20
+    - Watch: [6.0002 Lecture 7: Confidence Intervals](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/)
+    - Watch: [6.0002 Lecture 8: Sampling and Standard Error](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/)
+39. Experimental data and regressions
     - Watch: [6.0002 Lecture 9: Understanding Experimental Data, pt. 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/)
     - Watch: [6.0002 Lecture 10: Understanding Experimental Data, pt. 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-10-understanding-experimental-data-cont./)
     - Watch: [6.00 Lecture 17: Curve Fitting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/)
     - Watch: [6.00 Recitation 7: Distributions, Monte Carlo, and Regressions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/#?w=535)
     - Do: 6.00 Problem set 8 (continuation of 6.0002 - PS 4/6.00 - PS 7)
-39. Machine learning
+40. Machine learning and optimization
     - Read: Guttag, ch. 22
     - Watch: [6.0002 Lecture 11: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
-    - Watch: [6.00 Lecture 25: Queuing Network Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
+    - Watch: [6.00 Lecture 18: Optimization Problems and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-18-optimization-problems-and-algorithms/)
+    - Watch: [6.00 Lecture 19: More Optimization and Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-19-more-optimization-and-clustering/)
     - Do: 6.00 Problem Set 9
     - Optional:
       - Agarwal and Baka, ch. 14
-40. Clustering
+41. Clustering
     - Read: Guttag, ch. 23
     - Watch: [6.0002 Lecture 12: Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/)
-    - Watch: [6.00 Lecture 19: More Optimization and Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-19-more-optimization-and-clustering/)
     - Watch: [6.00 Lecture 20: More Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/)
     - Watch: [6.00 Recitation 8: Hierarchical and k-means Clustering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/#?w=535)
     - Do 6.00 Problem set 10
-41. Classification
+42. Classification
     - Read: Guttag, ch. 24
     - Watch: [6.0002 Lecture 13: Classification](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/)
     - Do: 6.0002 PSet 5
-42. Statistical sins
+43. Statistical fallacies
     - Read: Guttag, ch. 21
     - Watch: [6.0002 Lecture 14: Classification and Statistical Sins](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/)
     - Watch: [6.00 Lecture 24: Avoiding Statistical Fallacies](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/)
+    - Watch: [6.00 Lecture 25: Queuing Network Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
     - Do: 6.00 final exam
-43. Wrap up, applications, and I/O
+44. Wrap up, applications, and I/O
     - Watch: [6.0002 Lecture 15: Statistical Sins and Wrap Up](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/)
     - Watch: [6.00 Lecture 26: What Do Computer Scientists Do?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
     - Read: [Files](http://greenteapress.com/thinkpython2/html/thinkpython2015.html) (do exercises)
