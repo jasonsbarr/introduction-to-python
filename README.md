@@ -540,9 +540,9 @@ Get creative and have fun with it!
 42. Classification
     - Read: Guttag, ch. 24
     - Watch: [6.0002 Lecture 13: Classification](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/)
+    - Watch: [6.0002 Lecture 14: Classification and Statistical Sins](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/)
 43. Statistical fallacies
     - Read: Guttag, ch. 21
-    - Watch: [6.0002 Lecture 14: Classification and Statistical Sins](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/)
     - Watch: [6.00 Lecture 24: Avoiding Statistical Fallacies](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-24-avoiding-statistical-fallacies/)
     - Watch: [6.0002 Lecture 15: Statistical Sins and Wrap Up](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/)
     - Do: 6.0002 PSet 5
@@ -552,11 +552,11 @@ Get creative and have fun with it!
 45. Applications and wrapping up
     - Watch: [6.00 Lecture 26: What Do Computer Scientists Do?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models/)
     - Read: [Files](http://greenteapress.com/thinkpython2/html/thinkpython2015.html) (do exercises)
+    - Read: Pilgrim, [ch. 8, "Advanced Iterators"](https://diveintopython3.problemsolving.io/advanced-iterators.html), [ch. 9, "Refactoring"](https://diveintopython3.problemsolving.io/refactoring.html), [ch. 10, "Files"](https://diveintopython3.problemsolving.io/files.html), [ch. 14, "HTTP Web Services"](https://diveintopython3.problemsolving.io/http-web-services.html), and [ch. 16, "Packaging Python Libraries"](https://diveintopython3.problemsolving.io/packaging.html)
     - Optional:
       - Read: Gries, Campbell, and Montojo, ch. 10, 17 (do exercises)
       - Read: Baka, ch. 13
       - Read: Agarwal and Baka, ch. 11 - 12
-      - Read: Pilgrim, [ch. 8, "Advanced Iterators](https://diveintopython3.problemsolving.io/advanced-iterators.html), [ch. 9, "Refactoring"](https://diveintopython3.problemsolving.io/refactoring.html), [ch. 10, "Files"](https://diveintopython3.problemsolving.io/files.html), [ch. 14, "HTTP Web Services"](https://diveintopython3.problemsolving.io/http-web-services.html), and [ch. 16, "Packaging Python Libraries"](https://diveintopython3.problemsolving.io/packaging.html)
       - Lott, *FPP*, ch. 8 - 16
       - Lott, *MOOP*, pts. 2 - 3 (do exercises)
 
