@@ -492,7 +492,7 @@ Get creative and have fun with it!
 ### V. Using data to solve problems
 
 34. Stochastic problems
-    - Read: Guttag, ch. 15
+    - Read: Guttag, ch. 14 - 15
     - Watch: [6.0002 Lecture 4: Stochastic Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/)
     - Do: 6.00 Problem set 5
 35. Simulations, probability, random walks, and plotting
@@ -501,7 +501,7 @@ Get creative and have fun with it!
     - Watch: [6.0002 Lecture 5: Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/)
     - Watch: [6.00 Lecture 13: Some Basic Probability and Plotting Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-13-some-basic-probability-and-plotting-data/)
 36. Monte Carlo simulations
-    - Read: Guttag, ch. 16
+    - Read: Guttag, ch. 15 - 16
     - Watch: [6.0002 Lecture 6: Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/)
     - Watch: [6.00 Lecture 14: Sampling and Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-14-sampling-and-monte-carlo-simulation/)
     - Do: 6.0002 PSet 3 and 6.00 Problem set 6
