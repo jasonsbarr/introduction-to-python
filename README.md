@@ -423,7 +423,7 @@ Get creative and have fun with it!
       - Read: Agarwal and Baka, ch. 4 - 5
       - Reread optional tree chapters
 29. Hash tables
-    - Read: Guttag, ch. 10.3 - 10.4
+    - Read: Guttag, ch. 10.3
     - Read: [6.5. Hashing](https://runestone.academy/runestone/books/published/pythonds/SortSearch/Hashing.html) (do exercises)
     - Read: [Hash Table Implementation in Python](http://blog.chapagain.com.np/hash-table-implementation-in-python-data-structures-algorithms/)
     - Read: [Python hashing tutorial](http://zetcode.com/python/hashing/)
@@ -455,7 +455,7 @@ Get creative and have fun with it!
     - Do: [CS 61A HW 07](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw07/)
     - Do: 6.0002 PSet 1
 31. Graphs and graph problems
-    - Read: Guttag, ch. 12.1
+    - Read: Guttag, ch. 12.2
     - Read: [8. Graphs and Graph Algorithms](https://runestone.academy/runestone/books/published/pythonds/Graphs/toctree.html)
     - Watch: [6.0002 Lecture 3: Graph-theoretic Models](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/)
     - Watch: [6.00 Lecture 21: Using Graphs to Model Problems, Part 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-21-using-graphs-to-model-problems-part-1/)
@@ -492,20 +492,20 @@ Get creative and have fun with it!
 ### V. Using data to solve problems
 
 34. Stochastic problems
-    - Read: Guttag, ch. 14
+    - Read: Guttag, ch. 15
     - Watch: [6.0002 Lecture 4: Stochastic Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/)
     - Do: 6.00 Problem set 5
 35. Simulations, probability, random walks, and plotting
-    - Read: Guttag, ch. 11
+    - Read: Guttag, ch. 11, 14
     - Watch: [6.00 Lecture 12: Introduction to Simulation and Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-12-introduction-to-simulation-and-random-walks/)
     - Watch: [6.0002 Lecture 5: Random Walks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/)
     - Watch: [6.00 Lecture 13: Some Basic Probability and Plotting Data](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-13-some-basic-probability-and-plotting-data/)
 36. Monte Carlo simulations
-    - Read: Guttag, ch. 15 - 16
+    - Read: Guttag, ch. 16
     - Watch: [6.0002 Lecture 6: Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/)
     - Watch: [6.00 Lecture 14: Sampling and Monte Carlo Simulation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-14-sampling-and-monte-carlo-simulation/)
     - Do: 6.0002 PSet 3 and 6.00 Problem set 6
-37. Statistics, probability, and confidence
+37. Statistics and probability
     - Read: Guttag, ch. 17
     - Watch: [6.00 Lecture 15: Statistical Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/)
     - Watch: [6.00 Recitation 6: Probability and Statistics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-15-statistical-thinking/#?w=535)
@@ -513,10 +513,11 @@ Get creative and have fun with it!
     - Do: 6.0002 PSet 4 and 6.00 Problem set 7
     - Do: 6.00 Quiz 2 questions
 38. Sampling and confidence
-    - Read: Guttag, ch. 18 - 20
+    - Read: Guttag, ch. 20
     - Watch: [6.0002 Lecture 7: Confidence Intervals](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/)
     - Watch: [6.0002 Lecture 8: Sampling and Standard Error](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/)
 39. Experimental data and regressions
+    - Read: Guttag, ch. 18 - 19
     - Watch: [6.0002 Lecture 9: Understanding Experimental Data, pt. 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/)
     - Watch: [6.0002 Lecture 10: Understanding Experimental Data, pt. 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-10-understanding-experimental-data-cont./)
     - Watch: [6.00 Lecture 17: Curve Fitting](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-17-curve-fitting/)
