@@ -57,6 +57,8 @@ I'm also using these for supplementary readings and extra study, some of which a
 - [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/)
 - [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/), by Allen Downey
 
+I've tried to put readings from books that aren't free and aren't the Guttag intro text in sections marked "optional." You can work through this material and learn a lot without buying any books.
+
 ### Practice problems
 
 There is an extensive collection of practice problems on the CS 61A website, plus assignments, projects, labs, and more. The problem sets for 6.0001 are also available on the OpenCourseWare site.
