@@ -562,6 +562,7 @@ Get creative and have fun with it!
       - Read: Agarwal and Baka, ch. 11 - 12
       - Lott, *FPP*, ch. 8 - 16
       - Lott, *MOOP*, pts. 2 - 3 (do exercises)
+      - Hunt, *Advanced Guide to Python 3 Programming* (whole book)
 
 ### Final exam
 
