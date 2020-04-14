@@ -49,7 +49,7 @@ I'm also using these for supplementary readings and extra study, some of which a
 - [*Problem Solving with Algorithms and Data Structures using Python*](https://runestone.academy/runestone/books/published/pythonds/index.html), by Bradley Miller and David Ranum
 - [*Data Structures and Algorithms with Python*](https://www.amazon.com/Structures-Algorithms-Undergraduate-Computer-Science/dp/3319130714), by Kent D. Lee and Steve Hubbard
 - [*Python Data Structures and Algorithms*](https://www.amazon.com/Python-Data-Structures-Algorithms-application-ebook/dp/B01IF7NLM8), by Benjamin Baka
-- [*Hands-On Data Structures and Algorithms with Python, 2nd ed](https://www.amazon.com/Hands-Data-Structures-Algorithms-Python/dp/1788995570) by Basant Agarwal and Benjamin Baka
+- [*Hands-On Data Structures and Algorithms with Python, 2nd ed*](https://www.amazon.com/Hands-Data-Structures-Algorithms-Python/dp/1788995570) by Basant Agarwal and Benjamin Baka
 - [*Data Structures and Algorithms in Python*](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275), by Michael Goodrich, Roberto Tamassia, and Michael Goldwasser
 - [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html)
 - [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/), by Allen Downey
