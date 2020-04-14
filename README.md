@@ -16,6 +16,8 @@ This course uses Python to teach programming and computer science, but it is not
 
 Furthermore, the goal is not just to "learn how to program," but to learn how to think like a computer scientist in solving problems. Learning how to write actually useful programs is still important, but secondary to the main purpose. If, at the end of this course, you have a whole new understanding of how to think through and solve problems, we will have succeeded in our goal.
 
+If you have access to some or even all of the optional readings, you'll also gain experience with Python techniques and libraries used to build real-world applications that will bring you closer to being a job-ready Python developer. If you do the final project option, which is my own addition and not part of either the Berkeley or MIT courses, you should be able to create something worthy of a portfolio piece to show off for prospective employers.
+
 ## Source materials
 
 It uses materials from the following courses, which are freely available online:
