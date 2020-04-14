@@ -160,7 +160,7 @@ Get creative and have fun with it!
 
 1. Understanding computing and computer science
     - Read: Guttag, ch. 1 - 2.1
-    - Read: DeNero, ch. [1.1](http://composingprograms.com/pages/11-getting-started.html) - [1.2](http://composingprograms.com/pages/12-elements-of-programming.html)
+    - Read: DeNero, ch. [1.1](http://composingprograms.com/pages/11-getting-started.html)
     - Read: Jeannette M. Wing, ["Computational Thinking"](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
     - Read: Pilgrim, *Dive Into Python*, [ch. 2.1 - 2.3](https://diveintopython3.problemsolving.io/native-datatypes.html)
     - Watch: [6.0001 Lecture 1: What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
@@ -173,6 +173,7 @@ Get creative and have fun with it!
     - Do: CS 61A Disc. 00
 2. Basic control flow
     - Read: Guttag, ch. 2.2, 2.3.1, 2.4, and 3.2
+    - Read: DeNero, ch. [1.2](http://composingprograms.com/pages/12-elements-of-programming.html)
     - Read: [Conditionals](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip recursion, do exercises)
     - Read: [Strings](http://greenteapress.com/thinkpython2/html/thinkpython2009.html) (do exercises)
     - Read: [Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) (do exercises)
