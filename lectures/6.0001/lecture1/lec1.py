@@ -3,10 +3,11 @@ radius = 2.2
 # area of circle equation <- this is a comment
 area = pi*(radius**2)
 print(area)
-
+print("radius: ", radius)
 # change values of radius <- another comment
 # use comments to help others understand what you are doing in code
 radius = radius + 1
+print("radius: ", radius)
 print(area)     # area doesn't change
 area = pi*(radius**2)
 print(area)
@@ -37,6 +38,7 @@ a_very_long_variable_name_dont_name_them_this_long_pls = 0
 
 # below, start typing a_ve then hit tab... cool, right!
 # use autocomplete to change the value of that variable to 1
-
+a_very_long_variable_name_dont_name_them_this_long_pls = 1
 # use autocomplete to write a line that prints the value of that long variable
 # notice that Spyder also automatically adds the closed parentheses for you!
+print(a_very_long_variable_name_dont_name_them_this_long_pls)
