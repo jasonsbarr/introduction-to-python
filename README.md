@@ -6,7 +6,7 @@ Programming is perhaps the most important tool used in computer science and comp
 
 Skill with programming is applicable to a wide range of fields, not just computer science. It is my hope that people who work through the materials in this repository will acquire deep and thorough knowledge about how to write programs that help solve the problems relevant to their careers and lives.
 
-This course uses Python v3.6.10, though anything from v3.6 and up should work.
+This course uses Python v3.7.4, though anything from v3.6 and up should work.
 
 ## Course purpose and goals
 
