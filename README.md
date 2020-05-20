@@ -141,7 +141,7 @@ Get creative and have fun with it!
 ### Preliminary notes
 
 - It isn't necessary to watch the videos and sections of videos that are only relevant to students taking the actual courses on campus
-- CS 61A video numbers refer to their location in the playlist for that lecture as of Spring 2018
+- CS 61A video numbers refer to their location in the playlist for that lecture as of Spring 2018 or 2020
 
 - Resources for getting started with computer science (not required, but **highly** recommended)
     - [Welcome to computer science](https://sequoia-tree.github.io/welcome-to-computer-science.html)
@@ -182,6 +182,7 @@ Get creative and have fun with it!
     - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
      - Watch: [CS 61A (2018) Lecture 2: Names](https://www.youtube.com/watch?v=hdVG0P11G94&list=PL6BsET-8jgYW16P20tNV8hwpBUiCyQB5c&vq=hd1080), videos 2 - 4
     - Do: 6.00 Problem set 0
+    - Do: [CS 61A HW 01](https://cs61a.org/hw/hw01/)
     - Do: Continue doing practice problems on HackerRank and other sites throughout the whole course
 3. Simple algorithms
     - Read: Guttag, ch. 3
@@ -207,9 +208,8 @@ Get creative and have fun with it!
     - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
     - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
     - Watch: [6.00 Recitation 2: Loops, tuples, strings, and functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
-    - Do: CS 61A HW 01
-    - Do: CS 61A Lab 01
-    - Do: CS 61A Disc. 01
+    - Do: [CS 61A Lab 01](https://cs61a.org/lab/lab01/)
+    - [Do: CS 61A Disc. 01](https://cs61a.org/disc/disc01.pdf)
     - Optional:
       - Read: Gries, Campbell, and Montojo, *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
 6. Higher-order functions
@@ -218,35 +218,39 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2018) Lecture 4: Higher-order functions](https://www.youtube.com/watch?v=sLCc1QL2QmA&list=PL6BsET-8jgYVW_e0KbBrXbtyDMcTMtCWR&vq=hd1080&index=2), videos 2 - 6
     - Watch: [CS 61A (2018) Lecture 5: Environments](https://www.youtube.com/watch?v=8X1UsTFbdiw&list=PL6BsET-8jgYV92mJGKvn8EFs3dKuDQ5h4&vq=hd1080&index=2), videos 2 - 6
     - Do: 6.0001 Pset 1
-    - Do: CS 61A Lab 02
-    - Do: CS 61A Guerrilla 00: Higher-Order Functions, Environment Diagrams, Control
+    - Do: [CS 61A Lab 02](https://cs61a.org/lab/lab02/)
+    - Do: [CS 61A Disc 02](https://cs61a.org/disc/disc02.pdf)
+    - Do: [CS 61A Guerrilla 00: Higher-Order Functions, Environment Diagrams, Control](https://cs61a.org/disc/guer00.pdf)
+    - Do: [CS 61A exam prep 1](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep01.pdf)
 7. Abstraction, decomposition, and function design
     - Read: Guttag, ch. 4.5 - 4.6
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
     - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=QIh6CyrWhvw&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
     - Watch: [CS 61A (2020) Lecture 7: Design](https://www.youtube.com/watch?v=TC_JcE42R2s&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=5), videos 2 - 3
-    - Do: CS 61A HW 02
-    - Do: CS 61A exam prep 01
+    - Do: [CS 61A HW 02](https://cs61a.org/hw/hw02/)
+    - Do: [CS 61A Hog](https://cs61a.org/proj/hog/)
 8. Recursion
     - Read: Guttag, ch. 4.3
     - Read: DeNero, ch. 1.7 (except 1.7.4 - 1.7.5)
     - Read: [Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip conditionals, do exercises)
     - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A (2018) Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
-    - Do: CS 61A Hog Contest
-    - Do: CS 61A Disc. 02
+    - Do: [CS 61A Hog Contest](https://cs61a.org/proj/hog_contest/)
+    - Do: [CS 61A Lab 03 (2018)](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab03/)
+    - Do: [CS 61A Disc. 03](https://cs61a.org/lab/lab02/)
 9. Tree recursion
     - Read: DeNero, ch. 1.7.4 - 1.7.5
     - Watch: [CS 61A (2018) Lecture 8: Tree recursion](https://www.youtube.com/watch?v=VYYkJ1OLXBw&list=PL6BsET-8jgYWRZL52UCDPQeuarzmd58Xo&index=2), videos 2 - 5
     - Do: 6.00 Problem set 1, problems 1 - 3 (will do problem 4 later)
-    - Do: CS 61A HW 03
-    - Do: CS 61A Lab 03
-    - Do: CS 61A Guerrilla 01: Python Lists, Recursion, Tree Recursion
-    - Do: CS 61A CSM 00: Midterm 1 review
+    - Do: [CS 61A HW 03](https://cs61a.org/hw/hw03/)
+    - Do: [CS 61A Lab 04](https://cs61a.org/lab/lab04/)
+    - Do: [CS 61A Disc 04](https://cs61a.org/disc/disc04.pdf)
+    - Do: [CS 61A Guerrilla 01: Python Lists, Recursion, Tree Recursion](https://cs61a.org/disc/guer01.pdf)
+    - Do: [CS 61A CSM 00: Midterm 1 review](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor00.pdf)
 10. Function examples and review
     - Watch: [CS 61A (2018) Lecture 9: Function examples](https://www.youtube.com/watch?v=bi_2gAetCiI&list=PL6BsET-8jgYVg0YNlIeajft-CawFSgHp9&index=2), videos 2 - 6
     - Do: 6.0001 Pset 2 (covers problem 4 of 6.00 Problem set 1)
-    - Do: CS 61A exam prep 02
+    - Do: [CS 61A exam prep 02](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep02.pdf)
     - Do: Work through CS 61A past mock exam for Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html) to ensure exam matches material we've covered)
     - Do: Work through at least 1 (and preferably more) CS 61A past Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html))
     - Optional:
@@ -277,19 +281,22 @@ Get creative and have fun with it!
     - Read: [Tuples](http://greenteapress.com/thinkpython2/html/thinkpython2013.html) (do exercises)
     - Watch: [6.0001 Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/)
     - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
+    - Do: [CS 61A Lab 05](https://cs61a.org/lab/lab05/)
+    - Do: [CS 61A Disc 05](https://cs61a.org/disc/disc05.pdf)
     - Optional:
       - Gries, Campbell, and Montojo, ch. 8 (do exercises)
 13. Dictionaries
     - Read: [Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html) (do exercises)
     - Watch: [6.0001 Lecture 6: Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/)
+    - Do: 6.00 Problem set 3, Part B
     - Optional:
       - Gries, Campbell, and Montojo, ch. 11
-    - Do: 6.00 Problem set 3, Part B
 14. A closer look at data abstraction
     - Read: DeNero, ch. 2.1 - 2.2
     - Read: [Case study: data structure selection](http://greenteapress.com/thinkpython2/html/thinkpython2014.html) (do exercises)
     - Watch: [CS 61A (2020) Lecture 10: Data abstraction](https://www.youtube.com/watch?v=nzP3nJ2np8w&list=PL6BsET-8jgYUekZVBGLJ_qZrzfdHZ-pul&index=2), videos 2 - 6
-    - Do: [CS 61A HW 04](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw04/)
+    - Do: [CS 61A CSM 01: Tree recursion and data abstraction](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor01.pdf)
+    - Do: [CS 61A HW 04](https://cs61a.org/hw/hw04/)
 15. Working with Python sequences
     - Read: DeNero, ch. 2.3.1 - 2.3.5
     - Read: [Python Basics: List Comprehensions](https://towardsdatascience.com/python-basics-list-comprehensions-631278f22c40)
@@ -298,21 +305,22 @@ Get creative and have fun with it!
     - Read: [Comprehensions](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#comprehensions)
     - Read: Pilgrim, [ch. 3, "Comprehensions"](https://diveintopython3.problemsolving.io/comprehensions.html) and [ch. 4, "Strings"](https://diveintopython3.problemsolving.io/strings.html)
     - Watch: [CS 61A (2018) Lecture 11: Containers](https://www.youtube.com/watch?v=-Q45UcQ2XJk&list=PL6BsET-8jgYUi0aglfZx9AWBgm_cDnLwx&index=2), videos 2 - 8
-    - Do: CS 61A CSM 01: Tree Recursion and Data Abstraction
+    - Do: [CS 61A CSM 02: Lists and trees](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor02.pdf)
 16. Mutable data
     - Read: DeNero, ch. 2.4
     - Watch: [CS 61A (2018) Lecture 13: Mutable values](https://www.youtube.com/watch?v=Q-CewobDFZM&list=PL6BsET-8jgYUqH93Ik4w5Rk-A3qGMhhq0&index=2), videos 2 - 6
     - Watch: [CS 61A (2018) Lecture 14: Mutable functions](https://www.youtube.com/watch?v=w1TQ0yd8pG0&list=PL6BsET-8jgYX65Qx8DP2ColF_ldpgScu8&index=2), videos 2 - 5
-    - Do: CS 61A Lab 04: Data Abstraction and Lists
-    - Do: CS 61A Disc 04: Nonlocals and Mutation
-    - Do: CS 61A CSM 03: Mutation and Nonlocal
+    - Do: [CS 61A Lab 04: Data Abstraction and Lists](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab04/)
+    - Do: [CS 61A Disc 04: Nonlocals and Mutation](https://inst.eecs.berkeley.edu/~cs61a/sp18/disc/disc04.pdf)
+    - Do: [CS 61A CSM 03: Mutation and Nonlocal](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor03.pdf)
 17. Iterators
     - Read: DeNero, ch. 4.2
     - Read: [Iterables, iterators, and generators](https://python-textbok.readthedocs.io/en/1.0/Loop_Control_Statements.html#iterables-iterators-and-generators)
     - Read: Pilgrim, [ch. 6, "Closures & Generators"](https://diveintopython3.problemsolving.io/generators.html)
     - Watch: [CS 61A (2020) Lecture 16: Iterators](https://www.youtube.com/watch?v=On-kFyFp8HY&list=PL6BsET-8jgYWPYsrAfTAN8rvBzk5cYfUZ&index=2), videos 2 - 7
-    - Do: CS 61A Lab 06 (Spring 2020): Iterators and Generators
-    - Do: CS 61A Disc 06 (Spring 2020): Iterators and Generators
+    - Do: [CS 61A Lab 06 (Spring 2020): Iterators and Generators](https://cs61a.org/lab/lab06/)
+    - Do: [CS 61A Disc 06 (Spring 2020): Iterators and Generators](https://cs61a.org/disc/disc06.pdf)
+    - Do: [CS 61A Guerrilla 02](https://cs61a.org/disc/guer02.pdf)
 18. Debugging
     - Read: Guttag, ch. 6
     - Watch: [6.00 Lecture 7: Debugging](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-7-debugging/)
@@ -338,10 +346,10 @@ Get creative and have fun with it!
     - Read: [Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) (do exercises)
     - Read: [Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html) (do exercises)
     - Read: [Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) (do exercises)
-    - Do: CS 61A Lab 06: Object Oriented Programming
-    - Do: CS 61A Disc 05: Object Oriented Programming
+    - Do: [CS 61A Lab 06: Object Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab06/)
+    - Do: [CS 61A Disc 05: Object Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/disc/disc05.pdf)
     - Optional:
-    - Gries, Campbell, and Montojo, ch. 14
+      - Gries, Campbell, and Montojo, ch. 14
 21. Object and class inheritance
     - Read: Guttag, ch. 8.2 - 8.4
     - Read: DeNero, ch. 2.5.5 - 2.5.8
@@ -349,8 +357,8 @@ Get creative and have fun with it!
     - Read: [Inheritance](http://greenteapress.com/thinkpython2/html/thinkpython2019.html) (do exercises)
     - Watch: [6.00 Lecture 11: OOP and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/)
     - Watch: [6.0001 Lecture 9: Python classes and inheritance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/) (Skip section on quiz 1 answers)
-    - Do: [CS 61A HW 05](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw05/)
-    - Do: CS 61A Exam Prep 05: Nonlocal and Object-Oriented Programming
+    - Do: [CS 61A HW 05](https://cs61a.org/hw/hw05/)
+    - Do: [CS 61A Exam Prep 05: Nonlocal and Object-Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep05.pdf)
 22. Object design and representation
     - Read: DeNero, ch. 2.6 - 2.7
     - Read: [Class Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/class_design_recipe.pdf)
@@ -358,6 +366,8 @@ Get creative and have fun with it!
     - Watch: [6.00 Recitation 5: Object-Oriented Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-11-oop-and-inheritance/#?w=535)
     - Watch: [CS 61A (2020) Lecture 18: Inheritance](https://www.youtube.com/watch?v=BCNE7M-SjWM&list=PL6BsET-8jgYWGeaft0y0Nc0rSexHBxbVV&index=2), videos 2 - 8
     - Watch: [CS 61A (2018) Lecture 17: Representation, videos 2 - 4](https://www.youtube.com/watch?v=DUSSKCjzAgA&list=PL6BsET-8jgYWUwZ42xtrbX04mSx7GMHUo&index=2)
+    - Do: [CS 61A Lab 06: Object Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab06/)
+    - Do: [CS 61A Disc 05: Object Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/disc/disc05.pdf)
     - Optional:
       - Read: Lott, *Mastering Object-Oriented Python*, pt. 1
 
@@ -398,11 +408,11 @@ Get creative and have fun with it!
     - Read: DeNero, ch. 2.3.6 - 2.3.7
     - Read: [Trees and Tree Algorithms](https://runestone.academy/runestone/books/published/pythonds/Trees/toctree.html) (do exercises)
     - Watch: [CS 61A (2018) Lecture 12: Trees](https://www.youtube.com/watch?v=c3xKjzbSxqg&list=PL6BsET-8jgYU_D4zfjxpO_ItfvMimn4Yv&index=2), videos 2 - 8
-    - Do: CS 61A Disc 03: Trees & Sequences
-    - Do: CS 61A Lab 05: Mutable Sequences and Trees
-    - Do: CS 61A CSM 02: Lists and Trees
-    - Do: CS 61A Guerrilla 02 (Spring 2020): Data Abstraction, Trees, Nonlocal, Iterators & Generators
-    - Do: CS 61A Exam Prep 03: Lists, Trees, & Tree Recursion
+    - Do: [CS 61A Disc 03: Trees & Sequences](https://inst.eecs.berkeley.edu/~cs61a/sp18/disc/disc03.pdf)
+    - Do: [CS 61A Lab 05: Mutable Sequences and Trees](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab05/)
+    - Do: [CS 61A CSM 02: Lists and Trees](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor02.pdf)
+    - Do: [CS 61A Guerrilla 02 (Spring 2020): Data Abstraction, Trees, Nonlocal, Iterators & Generators](https://cs61a.org/disc/guer02.pdf)
+    - Do: [CS 61A Exam Prep 03: Lists, Trees, & Tree Recursion](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep03.pdf)
     - Optional:
       - Read: Baka, ch. 6
       - Read: Lee and Hubbard, ch. 6
@@ -417,9 +427,9 @@ Get creative and have fun with it!
     - Read: [Sets in Python](https://realpython.com/python-sets/)
     - Watch: [CS 61A (2018) Lecture 19: Composition](https://www.youtube.com/watch?v=yC4WPw_6ehY&list=PL6BsET-8jgYWKyc-ouo_hTpzAWtwCPPxa&index=2), videos 2 - 5
     - Watch: [CS 61A (2020) Lecture 22: Decomposition](https://www.youtube.com/watch?v=i7GFWtHCuzo&list=PL6BsET-8jgYVbnKLlrqeACkH-EdpxgJyl&index=2), videos 2 - 7
-    - Do: CS 61A Lab 07: Recursive Objects
-    - Do: CS 61A CSM 04: OOP and OOG
-    - Do: CS 61A Disc 06: Growth & Linked Lists
+    - Do: [CS 61A Lab 07: Recursive Objects](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab07/)
+    - Do: [CS 61A CSM 04: OOP and OOG](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor04.pdf)
+    - Do: [CS 61A Disc 06: Growth & Linked Lists](https://inst.eecs.berkeley.edu/~cs61a/sp18/disc/disc06.pdf)
     - Do: [CS 61A Ants project](https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/ants)
     - Optional:
       - Read: Baka, ch. 4 - 5
@@ -435,6 +445,10 @@ Get creative and have fun with it!
     - Read: [How to Create a Hash Table from Scratch in Python](https://coderbook.com/@marcus/how-to-create-a-hash-table-from-scratch-in-python/)
     - Read: [Hash tables, from data structures in practice](https://www.data-structures-in-practice.com/hash-tables/)
     - Watch: [6.00 Lecture 10: Hashing and classes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/)
+    - Do: [CS 61A Lab 07 (2020)](https://cs61a.org/lab/lab07/)
+    - Do: [CS 61A Disc 07 (2020)](https://cs61a.org/disc/disc07.pdf)
+    - Do: [CS 61A Disc 08 (2020)](https://cs61a.org/disc/disc08.pdf)
+    - Do: [CS 61A Guerrilla 03](https://cs61a.org/disc/guer03.pdf)
     - Optional:
       - Read: Baka, ch. 7
       - Read: Lee and Hubbard, ch. 5 (maps only)
@@ -445,10 +459,11 @@ Get creative and have fun with it!
     - Read: [The Goodies](http://greenteapress.com/thinkpython2/html/thinkpython2020.html)
     - Watch: [CS 61A (2018) Lecture 20: Ordered sets, videos 2 - 6](https://www.youtube.com/watch?v=O-e3IMfNyhM&list=PL6BsET-8jgYXzWgS7H0xgwXoAfE_oc5Qb&index=2)
     - Watch: [CS 61A (2018) Lecture 21: Tree sets, videos 2 - 3, 5](https://www.youtube.com/watch?v=bb1H5Mf6o6g&list=PL6BsET-8jgYW4UWd5R37kQycegdTdIhsS&index=2)
-    - Do: CS 61A Exam Prep 04: List Mutation, Dictionaries, & More Trees
+    - Do: [CS 61A Exam Prep 04: List Mutation, Dictionaries, & More Trees](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep04.pdf)
     - Do: [CS 61A HW 06](https://inst.eecs.berkeley.edu/~cs61a/sp18/hw/hw06/)
-    - Do: CS 61A Lab 08: Midterm Review
-    - Do: CS 61A CSM 05: Linked Lists and Midterm Review
+    - Do: [CS 61A Lab 08: Midterm Review](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab08/)
+    - Do: [CS 61A CSM 05: Linked Lists and Midterm Review](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/mentor05.pdf)
+    - Do: [CS 61A Exam Prep 06](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep06.pdf)
     - Optional:
       - Read: Lee and Hubbard, ch. 5 (sets), 10 - 11
       - Read: Goodrich, Tamassia, and Goldwasser, ch. 11, 15
