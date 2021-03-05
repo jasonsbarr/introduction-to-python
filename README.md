@@ -170,8 +170,8 @@ Get creative and have fun with it!
     - Do: Start [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
     - Do: Start [HackerRank Python practice](https://www.hackerrank.com/domains/python)
     - Do: Start [HackerRank Python Chingu Challenge](https://www.hackerrank.com/chingu-challenge-3/)
-    - Do: [CS 61A Lab 00](https://cs61a.org/lab/lab00/)
-    - Do: [CS 61A Disc. 00](https://cs61a.org/disc/disc00.pdf)
+    - Do: [CS 61A Lab 00](https://inst.eecs.berkeley.edu/~cs61a/sp20/lab/lab00/)
+    - Do: [CS 61A Disc. 00](https://inst.eecs.berkeley.edu/~cs61a/sp20/disc/disc00.pdf)
 2. Basic control flow
     - Read: Guttag, ch. 2.2, 2.3.1, 2.4, and 3.2
     - Read: DeNero, ch. [1.2](http://composingprograms.com/pages/12-elements-of-programming.html)
