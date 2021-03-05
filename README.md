@@ -176,9 +176,6 @@ Get creative and have fun with it!
 2. Basic control flow
     - Read: Guttag, ch. 2.2, 2.3.1, 2.4, and 3.2
     - Read: DeNero, ch. [1.2](http://composingprograms.com/pages/12-elements-of-programming.html)
-    - Read: [Conditionals](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip recursion, do exercises)
-    - Read: [Strings](http://greenteapress.com/thinkpython2/html/thinkpython2009.html) (do exercises)
-    - Read: [Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) (do exercises)
     - Watch: [6.0001 Lecture 2: Branching and iteration](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/)
     - Watch: [6.00 Lecture 2: Core elements of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
@@ -199,6 +196,9 @@ Get creative and have fun with it!
 4. Functions and scope
     - Read: Guttag, ch. 4.1, 4.4
     - Read: DeNero, ch. 1.3 - 1.5
+    - Read: [Conditionals](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip recursion, do exercises)
+    - Read: [Strings](http://greenteapress.com/thinkpython2/html/thinkpython2009.html) (do exercises)
+    - Read: [Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) (do exercises)
     - Read: [Functions](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) (do exercises)
     - Read: [Fruitful functions](http://greenteapress.com/thinkpython2/html/thinkpython2007.html) (do exercises)
     - Watch: [CS 61A (2020) Lecture 3: Control](https://www.youtube.com/watch?v=jNYc5Gdwo3c&list=PL6BsET-8jgYVGcDzUC0htVQN7ln41WCOP&index=2), videos 2 - 6
@@ -213,7 +213,7 @@ Get creative and have fun with it!
     - Do: [CS 61A Lab 01](https://cs61a.org/lab/lab01/)
     - [Do: CS 61A Disc. 01](https://cs61a.org/disc/disc01.pdf)
     - Optional:
-      - Read: Gries, Campbell, and Montojo, *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions"
+      - Read: Gries, Campbell, and Montojo, *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions", ch. 4, "Working with Text", and ch. 5, "Making Choices" (do exercises)
 6. Higher-order functions
     - Read: DeNero, ch. 1.6
     - Read: Guttag, ch. 5.4
