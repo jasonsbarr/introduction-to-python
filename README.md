@@ -23,7 +23,7 @@ If you have access to some or even all of the optional readings, you'll also gai
 It uses materials from the following courses, which are freely available online:
 
 - [MIT 6.0001 &ndash; Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [MIT 6.00SC &ndash; Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- [MIT 6.00SC &ndash; Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - **NOTE:** Uses Python 2, so don't use the example code
 - [UC Berkeley CS 61A &ndash; Structure and Interpretation of Computer Programs (Spring 2018 version)](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
 - [MIT 6.0002 &ndash; Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
