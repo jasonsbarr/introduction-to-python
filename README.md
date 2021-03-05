@@ -162,6 +162,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 1 - 2.1
     - Read: DeNero, ch. [1.1](http://composingprograms.com/pages/11-getting-started.html)
     - Read: Jeannette M. Wing, ["Computational Thinking"](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
+    - Read: Pilgrim, *Dive Into Python*, [ch 1](https://diveintopython3.problemsolving.io/your-first-python-program.html)
     - Read: Pilgrim, *Dive Into Python*, [ch. 2.1 - 2.3](https://diveintopython3.problemsolving.io/native-datatypes.html)
     - Watch: [6.0001 Lecture 1: What is computation?](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
     - Watch: [6.00 Lecture 1: Introduction to 6.00](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00)
