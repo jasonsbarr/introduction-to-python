@@ -179,7 +179,6 @@ Get creative and have fun with it!
     - Watch: [6.0001 Lecture 2: Branching and iteration](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/)
     - Watch: [6.00 Lecture 2: Core elements of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
-     - Watch: [CS 61A (2018) Lecture 2: Names](https://www.youtube.com/watch?v=hdVG0P11G94&list=PL6BsET-8jgYW16P20tNV8hwpBUiCyQB5c&vq=hd1080), videos 2 - 4
     - Do: 6.00 Problem set 0
     - Do: [CS 61A HW 01](https://inst.eecs.berkeley.edu/~cs61a/sp20/hw/hw01/)
     - Do: Continue doing practice problems on HackerRank and other sites throughout the whole course
@@ -200,6 +199,7 @@ Get creative and have fun with it!
     - Read: [Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) (do exercises)
     - Read: [Functions](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) (do exercises)
     - Read: [Fruitful functions](http://greenteapress.com/thinkpython2/html/thinkpython2007.html) (do exercises)
+    - Watch: [CS 61A (2018) Lecture 2: Names](https://www.youtube.com/watch?v=hdVG0P11G94&list=PL6BsET-8jgYW16P20tNV8hwpBUiCyQB5c&vq=hd1080), videos 2 - 4
     - Watch: [CS 61A (2020) Lecture 3: Control](https://www.youtube.com/watch?v=jNYc5Gdwo3c&list=PL6BsET-8jgYVGcDzUC0htVQN7ln41WCOP&index=2), videos 2 - 6
     - Watch: [6.00 Lecture 4: Machine interpretation of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: 6.00 Problem set 1
