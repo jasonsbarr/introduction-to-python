@@ -180,7 +180,6 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 2: Core elements of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Do: 6.00 Problem set 0
-    - Do: [CS 61A HW 01](https://inst.eecs.berkeley.edu/~cs61a/sp20/hw/hw01/)
     - Do: Continue doing practice problems on HackerRank and other sites throughout the whole course
 3. Simple algorithms
     - Read: Guttag, ch. 3
@@ -202,6 +201,7 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2018) Lecture 2: Names](https://www.youtube.com/watch?v=hdVG0P11G94&list=PL6BsET-8jgYW16P20tNV8hwpBUiCyQB5c&vq=hd1080), videos 2 - 4
     - Watch: [CS 61A (2020) Lecture 3: Control](https://www.youtube.com/watch?v=jNYc5Gdwo3c&list=PL6BsET-8jgYVGcDzUC0htVQN7ln41WCOP&index=2), videos 2 - 6
     - Watch: [6.00 Lecture 4: Machine interpretation of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
+    - Do: [CS 61A HW 01](https://inst.eecs.berkeley.edu/~cs61a/sp20/hw/hw01/)
     - Do: 6.00 Problem set 1
 5. Designing your own functions
     - Read: Guttag, ch. 4.2
