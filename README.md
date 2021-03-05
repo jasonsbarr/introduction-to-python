@@ -581,6 +581,7 @@ Get creative and have fun with it!
       - Lott, *FPP*, ch. 8 - 16
       - Lott, *MOOP*, pts. 2 - 3 (do exercises)
       - Hunt, *Advanced Guide to Python 3 Programming* (whole book)
+      - Additional materials and tutorials on building applications with Python
 
 ### Final exam
 
