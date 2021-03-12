@@ -3,7 +3,8 @@
 # (5/5 points)
 # ESTIMATED TIME TO COMPLETE: 5 minutes
 
-# In this problem you'll be given a chance to practice writing some while loops.
+# In this problem you'll be given a chance to practice writing some while
+# loops.
 
 # 1. Convert the following into code that uses a while loop.
 
@@ -13,6 +14,12 @@
 # prints 8
 # prints 10
 # prints Goodbye!
+i = 1
+while i <= 10:
+    if i % 2 == 0:
+        print(i)
+    i += 1
+print("Goodbye!")
 
 # Exercise: while exercise 2
 
@@ -27,6 +34,12 @@
 # prints 6
 # prints 4
 # prints 2
+n = 10
+print("Hello!")
+while n > 0:
+    if n % 2 == 0:
+        print(n)
+    n -= 1
 
 # Exercise: while exercise 3
 
@@ -39,8 +52,13 @@
 # 21
 # which is 1 + 2 + 3 + 4 + 5 + 6.
 
-# For problems such as these, do not include input statements or define variables we will provide for you. Our automating testing will
-# provide values so write your code in the following box assuming these variables are already defined.
+end = 10
+x = 0
+sum = 0
+while x <= end:
+    sum += x
+    x += 1
+print(sum)
 
 # Exercise: for exercise 1
 
@@ -57,8 +75,10 @@
 # prints 8
 # prints 10
 # prints "Goodbye!"
+for i in range(2, 11, 2):
+    print(i)
+print("Goodbye!")
 
-  
 # Exercise: for exercise 2
 
 # (5/5 points)
@@ -72,6 +92,9 @@
 # prints 6
 # prints 4
 # prints 2
+print("Hello!")
+for n in range(10, 1, -2):
+    print(n)
 
 # Exercise: for exercise 3
 
@@ -83,5 +106,8 @@
 # 21
 # which is 1 + 2 + 3 + 4 + 5 + 6.
 
-# For problems such as these, do not include input statements or define variables we will provide for you. Our automating testing will
-# provide values so write your code in the following box assuming these variables are already defined.
+sum = 0
+end = 10
+for i in range(end + 1):
+    sum += i
+print(sum)
