@@ -57,8 +57,6 @@ I'm also using these for supplementary readings and extra study, some of which a
 - [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html)
 - [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/), by Allen Downey
 - [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/), by Allen Downey
-- [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/), by Allen Downey
-- [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/), by Allen Downey
 - [*Advanced Guide to Python 3 Programming*](https://www.amazon.com/Advanced-Programming-Undergraduate-Computer-Science/dp/3030259420), by John Hunt
 
 I've tried to put readings from books that aren't free and aren't the Guttag intro text in sections marked "optional." You can work through this material and learn a lot without buying any books.
@@ -508,8 +506,6 @@ Get creative and have fun with it!
 - Read: [*Think Stats: Exploratory Data Analysis in Python*](http://greenteapress.com/thinkstats2/html/index.html) (entire book, with exercises)
 - Read: [*How to Think like a Data Scientist*](https://runestone.academy/runestone/books/published/httlads/index.html) (entire book, with exercises)
 - Read: [*Think Bayes: Bayesian Statistics Made Simple*](http://www.greenteapress.com/thinkbayes/html/index.html) (entire book, with exercises)
-- Read: [*Think DSP: Digital Signal Processing in Python*](http://greenteapress.com/thinkdsp/html/index.html) (entire book, with exercises)
-- Read: [*Think Complexity: Exploring Complexity Science with Python*](http://greenteapress.com/complexity2/html/index.html) (entire book, with exercises)
 
 ### V. Using data to solve problems
 
