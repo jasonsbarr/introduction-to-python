@@ -202,16 +202,14 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2020) Lecture 3: Control](https://www.youtube.com/watch?v=jNYc5Gdwo3c&list=PL6BsET-8jgYVGcDzUC0htVQN7ln41WCOP&index=2), videos 2 - 6
     - Watch: [6.00 Lecture 4: Machine interpretation of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: [CS 61A HW 01](https://inst.eecs.berkeley.edu/~cs61a/sp20/hw/hw01/)
-    - Do: 6.00 Problem set 1
 5. Designing your own functions
     - Read: Guttag, ch. 4.2
     - Read: Downey, *Think Python, 2nd ed.*, ch. 4.8, "[A Development Plan](http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec49)"
     - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
     - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
     - Read: [Case study: word play](http://greenteapress.com/thinkpython2/html/thinkpython2010.html) (do exercises)
-    - Watch: [6.00 Recitation 2: Loops, tuples, strings, and functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: [CS 61A Lab 01](https://cs61a.org/lab/lab01/)
-    - [Do: CS 61A Disc. 01](https://cs61a.org/disc/disc01.pdf)
+    - Do: [CS 61A Disc. 01](https://cs61a.org/disc/disc01.pdf)
     - Optional:
       - Read: Gries, Campbell, and Montojo, *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions", ch. 4, "Working with Text", and ch. 5, "Making Choices" (do exercises)
 6. Higher-order functions
@@ -272,6 +270,7 @@ Get creative and have fun with it!
     - Read: [Template Rules](https://sites.google.com/site/ubccpsc189/template-rules), adapted from [*How to Design Programs*](https://htdp.org)
     - Read: Pilgrim, [ch. 2.4 - 2.8](https://diveintopython3.problemsolving.io/native-datatypes.html)
     - Watch: [6.00 Lecture 5: Objects in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-5-objects-in-python/)
+    - Watch: [6.00 Recitation 2: Loops, tuples, strings, and functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-4-machine-interpretation-of-a-program/)
     - Do: 6.0001 PSet 3
     - Optional:
       - Read: [More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
