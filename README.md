@@ -177,6 +177,7 @@ Get creative and have fun with it!
     - Watch: [6.00 Lecture 2: Core elements of a program](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Watch: [6.00 Recitation 1: Introduction to coding concepts](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/)
     - Do: 6.00 Problem set 0
+    - Do: 6.0001 finger exercises - loops
     - Do: Continue doing practice problems on HackerRank and other sites throughout the whole course
 3. Simple algorithms
     - Read: Guttag, ch. 3
@@ -184,6 +185,7 @@ Get creative and have fun with it!
     - Watch: 6.00 [Lecture 3: Problem solving](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-3-problem-solving/)
     - Note: You will generally see the algorithm they call "bisection search" referred to as "binary search" on coding websites and in algorithm problems.
     - Do: 6.0001 Pset 0
+    - Do: 6.0001 finger exercises - simple algorithms
 
 ### II. Functions: the building blocks for your programs
 
