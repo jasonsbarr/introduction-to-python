@@ -226,6 +226,7 @@ Get creative and have fun with it!
     - Watch: [6.0001 Lecture 4: Decomposition, Abstractions, Functions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/)
     - Watch: [CS 61A (2020) Lecture 6: Iteration](https://www.youtube.com/watch?v=QIh6CyrWhvw&list=PL6BsET-8jgYVRJyVPwYcpYDHS2T36ELml&index=2), videos 2 - 5
     - Watch: [CS 61A (2020) Lecture 7: Design](https://www.youtube.com/watch?v=TC_JcE42R2s&list=PL6BsET-8jgYUTs_JCU3Zz8KBcF-X3P4Ds&index=5), videos 2 - 3
+    - Do: 6.0001 finger exercises - functions
     - Do: [CS 61A HW 02](https://cs61a.org/hw/hw02/)
     - Do: [CS 61A Hog](https://cs61a.org/proj/hog/)
 8. Recursion
