@@ -38,4 +38,21 @@
 # Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. y
 # Sorry, I did not understand your input.
 # Is your secret number 91?
-# Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. c
+# Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the
+# guess is too low. Enter 'c' to indicate I guessed correctly. c
+high = 100
+low = 0
+while True:
+    guess = (high + low) // 2
+    print("Is your secret number " + str(guess) + "?")
+    reply = input(
+        "Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. ")
+    if reply == "c":
+        print("The secret number was " + str(guess) + ".")
+        break
+    elif reply == "l":
+        low = guess
+    elif reply == "h":
+        high = guess
+    else:
+        print("Sorry, I did not understand your input.")
