@@ -251,8 +251,6 @@ Get creative and have fun with it!
     - Do: [CS 61A exam prep 02](https://inst.eecs.berkeley.edu/~cs61a/sp18/assets/pdfs/exam_prep02.pdf)
     - Do: Work through CS 61A past mock exam for Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html) to ensure exam matches material we've covered)
     - Do: Work through at least 1 (and preferably more) CS 61A past Midterm 1 (untimed, use [Spring 2018 Resource page](https://inst.eecs.berkeley.edu/~cs61a/sp18/resources.html))
-    - Optional:
-      - *Functional Python Programming*, by Steve Lott, ch. 1 - 7
 
 ### Exam 1
 
@@ -367,9 +365,6 @@ Get creative and have fun with it!
     - Watch: [CS 61A (2018) Lecture 17: Representation, videos 2 - 4](https://www.youtube.com/watch?v=DUSSKCjzAgA&list=PL6BsET-8jgYWUwZ42xtrbX04mSx7GMHUo&index=2)
     - Do: [CS 61A Lab 06: Object Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/lab/lab06/)
     - Do: [CS 61A Disc 05: Object Oriented Programming](https://inst.eecs.berkeley.edu/~cs61a/sp18/disc/disc05.pdf)
-    - Optional:
-      - Read: Phillips, *Python 3 Object-Oriented Programming*
-      - Read: Lott, *Mastering Object-Oriented Python*, pt. 1
 
 ### IV. Algorithms and more complex data structures
 
@@ -575,9 +570,10 @@ Get creative and have fun with it!
       - Read: Gries, Campbell, and Montojo, ch. 10, 17 (do exercises)
       - Read: Baka, ch. 13
       - Read: Agarwal and Baka, ch. 11 - 12
-      - Lott, *FPP*, ch. 8 - 16
-      - Lott, *MOOP*, pts. 2 - 3 (do exercises)
-      - Hunt, *Advanced Guide to Python 3 Programming* (whole book)
+      - Lott, *Functional Programming in Python*, entire book
+      - Read: Phillips, *Python 3 Object-Oriented Programming*, entire book
+      - Lott, *Mastering Object-Oriented Python*, entire book
+      - Hunt, *Advanced Guide to Python 3 Programming*, entire book
       - Additional materials and tutorials on building applications with Python
 
 ### Final exam
