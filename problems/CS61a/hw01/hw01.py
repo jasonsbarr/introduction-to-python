@@ -105,15 +105,15 @@ def with_if_function():
 
 
 def c():
-    "*** YOUR CODE HERE ***"
+    return False
 
 
 def t():
-    "*** YOUR CODE HERE ***"
+    print(5)
 
 
 def f():
-    "*** YOUR CODE HERE ***"
+    print(6)
 
 
 def hailstone(x):
@@ -131,4 +131,13 @@ def hailstone(x):
     >>> a
     7
     """
-    "*** YOUR CODE HERE ***"
+    steps = 1
+    while x > 1:
+        print(int(x))
+        if x % 2 == 0:
+            x /= 2
+        else:
+            x = (x * 3) + 1
+        steps += 1
+    print(int(x))
+    return steps
