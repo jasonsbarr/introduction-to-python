@@ -169,7 +169,6 @@ Get creative and have fun with it!
     - Do: Start [HackerRank Python practice](https://www.hackerrank.com/domains/python)
     - Do: Start [HackerRank Python Chingu Challenge](https://www.hackerrank.com/chingu-challenge-3/)
     - Do: [CS 61A Lab 00](https://inst.eecs.berkeley.edu/~cs61a/sp20/lab/lab00/)
-    - Do: [CS 61A Disc. 00](https://inst.eecs.berkeley.edu/~cs61a/sp20/disc/disc00.pdf)
 2. Basic control flow
     - Read: Guttag, ch. 2.2, 2.3.1, 2.4, and 3.2
     - Read: DeNero, ch. [1.2](http://composingprograms.com/pages/12-elements-of-programming.html)
@@ -199,7 +198,6 @@ Get creative and have fun with it!
     - Read: [Strings](http://greenteapress.com/thinkpython2/html/thinkpython2009.html) (do exercises)
     - Read: [Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) (do exercises)
     - Read: [Functions](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) (do exercises)
-    - Read: [Fruitful functions](http://greenteapress.com/thinkpython2/html/thinkpython2007.html) (do exercises)
     - Do: [CS 61A HW 01](https://inst.eecs.berkeley.edu/~cs61a/sp20/hw/hw01/)
 5. Designing your own functions
     - Read: Guttag, ch. 4.2
@@ -232,6 +230,7 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 4.3
     - Read: DeNero, ch. 1.7 (except 1.7.4 - 1.7.5)
     - Read: [Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) (skip conditionals, do exercises)
+    - Read: [Fruitful functions](http://greenteapress.com/thinkpython2/html/thinkpython2007.html) (do exercises)
     - Watch: [6.00 Lecture 6: Recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Watch: [CS 61A (2018) Lecture 7: Recursion](https://www.youtube.com/watch?v=1zF75dYpCHo&list=PL6BsET-8jgYXF2TzAQRQeaZwhp-9DfE1r&vq=hd1080), videos 2 - 7
     - Do: 6.0001 finger exercises - functions
