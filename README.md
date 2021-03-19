@@ -489,6 +489,7 @@ Get creative and have fun with it!
     - Watch: [CS 61A Lecture 22: Data examples, videos 2 - 7](https://www.youtube.com/watch?v=6qjhVNPwdUE&list=PL6BsET-8jgYWRTU90CoXS2iWz_USTRL0c&index=2)
     - Do: 6.0001 Quiz 1 and final exam as practice problems
     - Do: 6.0002 PSet 2 and 6.00 Problem set 11
+    - Do: [The Complete Data Structures and Algorithms Course in Python](https://www.youtube.com/playlist?list=PLWRfwqpR738WmkQCsyFjGd2cke3gVuBpj)
 
 ### Exam 2 &ndash; CS 61A Midterm 2 and 6.00 Quiz 1
 
