@@ -45,7 +45,6 @@ I'm also using these for supplementary readings and extra study, some of which a
 
 - [*Think Python, 2nd ed.*](https://greenteapress.com/wp/think-python-2e/), by Allen Downey
 - [*Dive Into Python 3*](https://diveintopython3.problemsolving.io/), by Mark Pilgrim
-- [*Practical Programming: An Introduction to Computer Science Using Python 3.6, 3rd ed.*](https://www.amazon.com/Practical-Programming-Introduction-Computer-Science/dp/1680502689/ref=dp_ob_title_bk), by Paul Gries, Jennifer Campbell, and Jason Montojo
 - [*Functional Python Programming*](https://www.amazon.com/Functional-Python-Programming-programming-built/dp/1788627067/ref=dp_ob_title_bk), by Steven F. Lott
 - *Python 3 Object-Oriented Programming*, 2nd ed., by Dusty Phillips
 - [*Mastering Object-Oriented Python*](https://www.amazon.com/Mastering-Object-Oriented-Python-powerful-applications/dp/1789531365/ref=dp_ob_title_bk), by Steven F. Lott
@@ -206,8 +205,6 @@ Get creative and have fun with it!
     - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
     - Do: [CS 61A Lab 01](https://cs61a.org/lab/lab01/)
     - Do: [CS 61A Disc. 01](https://cs61a.org/disc/disc01.pdf)
-    - Optional:
-      - Read: Gries, Campbell, and Montojo, *Practical Programming, 3rd ed.*, ch. 3, "Designing and Using Functions", ch. 4, "Working with Text", and ch. 5, "Making Choices" (do exercises)
 6. Higher-order functions
     - Read: DeNero, ch. 1.6
     - Read: Guttag, ch. 5.4
@@ -280,14 +277,10 @@ Get creative and have fun with it!
     - Watch: [6.00 Recitation 3: Lists and their elements, sorting, and recursion](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/)
     - Do: [CS 61A Lab 05](https://cs61a.org/lab/lab05/)
     - Do: [CS 61A Disc 05](https://cs61a.org/disc/disc05.pdf)
-    - Optional:
-      - Gries, Campbell, and Montojo, ch. 8 (do exercises)
 13. Dictionaries
     - Read: [Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html) (do exercises)
     - Watch: [6.0001 Lecture 6: Recursion, Dictionaries](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/)
     - Do: 6.00 Problem set 3, Part B
-    - Optional:
-      - Gries, Campbell, and Montojo, ch. 11
 14. A closer look at data abstraction
     - Read: DeNero, ch. 2.1 - 2.2
     - Read: [Case study: data structure selection](http://greenteapress.com/thinkpython2/html/thinkpython2014.html) (do exercises)
@@ -331,8 +324,6 @@ Get creative and have fun with it!
     - Read: Guttag, ch. 7
     - Watch: [6.0001 Lecture 7: Testing, Debugging, Exceptions, Assertions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-7-testing-debugging-exceptions-and-assertions/)
     - Do: 6.0001 PSet 4, Parts A & C
-    - Optional:
-      - Read: Gries, Campbell, and Montojo, ch. 15 (do exercises)
 20. Object-oriented programming
     - Read: Guttag, ch. 8.1
     - Read: DeNero, ch. 2.5.1 - 2.5.4
@@ -397,7 +388,6 @@ Get creative and have fun with it!
     - Watch: [6.0001 Lecture 12: Searching and sorting algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/)
     - Do: 6.0001 Pset 5
     - Optional:
-      - Read: Gries, Campbell, and Montojo, ch. 13 (do exercises)
       - Read: Agarwal and Baka, ch. 9 - 10
 25. Trees
     - Read: DeNero, ch. 2.3.6 - 2.3.7
@@ -567,7 +557,6 @@ Get creative and have fun with it!
     - Read: [Files](http://greenteapress.com/thinkpython2/html/thinkpython2015.html) (do exercises)
     - Read: Pilgrim, [ch. 8, "Advanced Iterators"](https://diveintopython3.problemsolving.io/advanced-iterators.html), [ch. 10, "Refactoring"](https://diveintopython3.problemsolving.io/refactoring.html), [ch. 11, "Files"](https://diveintopython3.problemsolving.io/files.html), [ch. 12, "XML"](https://diveintopython3.problemsolving.io/xml.html), [ch. 13, "Serializing Python Objects"](https://diveintopython3.problemsolving.io/serializing.html), [ch. 14, "HTTP Web Services"](https://diveintopython3.problemsolving.io/http-web-services.html), [ch. 15, "Case Study: Porting `chardet` to Python 3"](https://diveintopython3.problemsolving.io/case-study-porting-chardet-to-python-3.html), and [ch. 16, "Packaging Python Libraries"](https://diveintopython3.problemsolving.io/packaging.html)
     - Optional:
-      - Read: Gries, Campbell, and Montojo, ch. 10, 17 (do exercises)
       - Read: Baka, ch. 13
       - Read: Agarwal and Baka, ch. 11 - 12
       - Lott, *Functional Programming in Python*, entire book
