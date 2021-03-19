@@ -204,7 +204,6 @@ Get creative and have fun with it!
     - Read: Downey, *Think Python, 2nd ed.*, ch. 4.8, "[A Development Plan](http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec49)"
     - Read: [How to Design Functions](https://sites.google.com/site/ubccpsc189/how-to-design-functions-htdf) (adapted from [*How to Design Programs*](https://htdp.org))
     - Read: [Function Design Recipe](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)
-    - Read: [Case study: word play](http://greenteapress.com/thinkpython2/html/thinkpython2010.html) (do exercises)
     - Do: [CS 61A Lab 01](https://cs61a.org/lab/lab01/)
     - Do: [CS 61A Disc. 01](https://cs61a.org/disc/disc01.pdf)
     - Optional:
